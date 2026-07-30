@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-07-30T03:23:01.745Z",
+  "updated_at": "2026-07-30T03:23:48.524Z",
   "themes": [
     {
       "name": {
@@ -32,15 +32,15 @@
         "zh-CN": "翡翠配色的 Komari 主题。",
         "en": "An emerald theme for Komari."
       },
-      "version": "1.0.5",
+      "version": "1.0.6",
       "author": {
         "zh-CN": "Tokinx",
         "en": "Tokinx"
       },
       "url": "https://github.com/Tokinx/komari-theme-emerald",
       "preview": "https://raw.githubusercontent.com/Tokinx/komari-theme-emerald/refs/heads/master/docs/preview.png",
-      "download": "https://github.com/Tokinx/komari-theme-emerald/releases/download/v1.0.5/komari-theme-emerald-build-ead2641.zip",
-      "sha256": "06c3f89fa706a5df5755a3901392bde805079257876272e017444eafbf0380a2"
+      "download": "https://github.com/Tokinx/komari-theme-emerald/releases/download/v1.0.6/komari-theme-emerald-build-3c59a62.zip",
+      "sha256": "d7bc292f796b3bb0f2ad9b653544d04e4b75c81a69e1d52838e682db5fc52da4"
     },
     {
       "name": "Komari Glass",
@@ -57,12 +57,12 @@
       "name": "Komari Glassmorphism",
       "short": "Glassmorphism",
       "description": "A Glassmorphism theme for Komari",
-      "version": "3.3.0",
+      "version": "3.3.2",
       "author": "sanrokamlan",
       "url": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism",
       "preview": "https://raw.githubusercontent.com/sanrokamlan-prog/komari-theme-Glassmorphism/refs/heads/main/docs/preview.png",
-      "download": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism/releases/download/v3.3.0/komari-theme-Glassmorphism-build-7d2c7e1.zip",
-      "sha256": "c5656046ad67f7f3cd9aa1076f55eedbab7c63796f76d0a0fbd377f528290359"
+      "download": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism/releases/download/v3.3.2/komari-theme-Glassmorphism-build-2cd56ce.zip",
+      "sha256": "f2ef3697197abbf0b10ee09bd7be184051d66ac71770273ab687c65ebf0514cd"
     },
     {
       "name": "ServerStatus-Hotaru",
@@ -130,12 +130,12 @@
       "name": "Komari Carbon",
       "short": "komari-theme-carbon",
       "description": "IBM Carbon + IBM Plex style Komari monitoring theme",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "author": "gengyue2468",
       "url": "https://github.com/gengyue2468/komari-theme-carbon",
       "preview": "https://raw.githubusercontent.com/gengyue2468/komari-theme-carbon/master/preview.png",
-      "download": "https://github.com/gengyue2468/komari-theme-carbon/releases/download/v0.1.2/komari-theme-carbon-v0.1.2.zip",
-      "sha256": "7c7f28f566909a15947e6b66e50d15ffa655c073865826c01d728dcf3721b5bf"
+      "download": "https://github.com/gengyue2468/komari-theme-carbon/releases/download/v0.1.3/komari-theme-carbon-v0.1.3.zip",
+      "sha256": "7d45cd7983e13fbb906ac736f3eab685418a15dccf2d926d69da73345417b8b7"
     },
     {
       "name": "Komari Home",
@@ -163,12 +163,12 @@
       "name": "LeoNetLab Observatory",
       "short": "LeoNetLab",
       "description": "A theme for Komari, based on Komari Emerald",
-      "version": "1.3.0",
+      "version": "1.3.1-R",
       "author": "LeoNetLab",
       "url": "https://github.com/LeonR-92/komari-theme-leonetlab",
       "preview": "https://raw.githubusercontent.com/LeonR-92/komari-theme-leonetlab/main/docs/preview.png",
-      "download": "https://github.com/LeonR-92/komari-theme-leonetlab/releases/download/v1.3.0/komari-theme-leonetlab-build-v1.3.0.zip",
-      "sha256": "2fc3daa049a191495b75a03c8ebd10e0f46bacf4eb0fee14a0cd9cfa70f8df4a"
+      "download": "https://github.com/LeonR-92/komari-theme-leonetlab/releases/download/v1.3.1-R/komari-theme-leonetlab-build-v1.3.1-R.zip",
+      "sha256": "427b73532a8f27a6ab3817060089cb95bdfa94cd87f5015fb6c1edf23838ebe5"
     },
     {
       "name": "Komari Theme Light",
@@ -291,12 +291,12 @@
       "name": "Nezha",
       "short": "nezha",
       "description": "Nezha Theme for Komari Monitor",
-      "version": "3.0.5",
+      "version": "3.0.6",
       "author": "Nomi",
       "url": "https://github.com/nuomiiiii/nezha",
       "preview": "https://raw.githubusercontent.com/nuomiiiii/nezha/main/preview.png",
-      "download": "https://github.com/nuomiiiii/nezha/releases/download/v3.0.5/nezha-v3.0.5.zip",
-      "sha256": "970ce21d470cb5116f66697ac0624d6490abe74efc45357c29a43b8ee8a9f0be"
+      "download": "https://github.com/nuomiiiii/nezha/releases/download/v3.0.6/nezha-v3.0.6.zip",
+      "sha256": "cc85e3cc21ebfc045425229c25dcad71d19a68a3c927dab46a260d5417d7e4a1"
     },
     {
       "name": {
