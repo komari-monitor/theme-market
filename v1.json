@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-07-30T04:16:19.773Z",
+  "updated_at": "2026-07-30T23:58:45.468Z",
   "themes": [
     {
       "name": {
@@ -57,12 +57,12 @@
       "name": "Komari Glassmorphism",
       "short": "Glassmorphism",
       "description": "A Glassmorphism theme for Komari",
-      "version": "3.3.2",
+      "version": "3.3.3",
       "author": "sanrokamlan",
       "url": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism",
       "preview": "https://raw.githubusercontent.com/sanrokamlan-prog/komari-theme-Glassmorphism/refs/heads/main/docs/preview.png",
-      "download": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism/releases/download/v3.3.2/komari-theme-Glassmorphism-build-2cd56ce.zip",
-      "sha256": "f2ef3697197abbf0b10ee09bd7be184051d66ac71770273ab687c65ebf0514cd"
+      "download": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism/releases/download/v3.3.3/komari-theme-Glassmorphism-build-63a1d01.zip",
+      "sha256": "01a1d0111b0405f0ffaa280070d77e0dfe46bdd728edf0dbe7396a93be3ff249"
     },
     {
       "name": "ServerStatus-Hotaru",
@@ -216,12 +216,12 @@
       "name": "Komari Material",
       "short": "Material",
       "description": "A Material Design 3 theme for Komari Monitor",
-      "version": "1.1.4",
+      "version": "1.1.5",
       "author": "Liebesfreud",
       "url": "https://github.com/Liebesfreud/Komari-Material",
       "preview": "https://raw.githubusercontent.com/Liebesfreud/Komari-Material/main/docs/preview.png",
-      "download": "https://github.com/Liebesfreud/Komari-Material/releases/download/release-v1.1.4/komari-theme-material-build-e3355cc.zip",
-      "sha256": "88d71c6b020596c90d47fe0de970a1e26ea461df70cfb8a028e3be008d846885"
+      "download": "https://github.com/Liebesfreud/Komari-Material/releases/download/release-v1.1.5/komari-theme-material-build-fdfabd3.zip",
+      "sha256": "e0c4d22bdc18155a9ea1c990dd5b8e1369c1c6f26117104dda63c74b6d9d059b"
     },
     {
       "name": "Komari Mikus",
@@ -302,12 +302,12 @@
       "name": "Nezha",
       "short": "nezha",
       "description": "Nezha Theme for Komari Monitor",
-      "version": "3.0.6",
+      "version": "3.0.8",
       "author": "Nomi",
       "url": "https://github.com/nuomiiiii/nezha",
       "preview": "https://raw.githubusercontent.com/nuomiiiii/nezha/main/preview.png",
-      "download": "https://github.com/nuomiiiii/nezha/releases/download/v3.0.6/nezha-v3.0.6.zip",
-      "sha256": "cc85e3cc21ebfc045425229c25dcad71d19a68a3c927dab46a260d5417d7e4a1"
+      "download": "https://github.com/nuomiiiii/nezha/releases/download/v3.0.8/nezha-v3.0.8.zip",
+      "sha256": "e8f63a46fe336eac9fa4ec95d463ed78d9b2aecfa305e07035dd63f7f166e552"
     },
     {
       "name": {
