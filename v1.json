@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-07-30T03:23:48.524Z",
+  "updated_at": "2026-07-30T04:16:19.773Z",
   "themes": [
     {
       "name": {
@@ -233,6 +233,17 @@
       "preview": "https://image.mikus.ink/uploads/HayasakaAi/2026/07/05/d3eab55445a8.webp",
       "download": "https://github.com/mikus-loli/komari-mikus/releases/download/v2.0.4/komari-mikus-v2.0.4.zip",
       "sha256": "deff3b30dc0f88f455dad4d752be80b0bcbb4b060a11ede7361ffaeae4e20b63"
+    },
+    {
+      "name": "MiStatus Komari",
+      "short": "MiStatus",
+      "description": "基于 Next.js 的现代化服务器监控主题",
+      "version": "2.6.0",
+      "author": "imzyb",
+      "url": "https://github.com/imzyb/MiStatus-Komari",
+      "preview": "https://raw.githubusercontent.com/imzyb/MiStatus-Komari/master/preview.png",
+      "download": "https://github.com/imzyb/MiStatus-Komari/releases/download/v2.6.0/mistatus-theme-v26.07.11-b265be5.zip",
+      "sha256": "581f98b26b7f7d0474362e36b7d00cc29a29c29d2ad2a624d680dd99f2e6a7bf"
     },
     {
       "name": "Komari Web Mochi",
