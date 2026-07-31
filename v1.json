@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-07-30T23:58:45.468Z",
+  "updated_at": "2026-07-31T19:53:45.198Z",
   "themes": [
     {
       "name": {
@@ -227,12 +227,12 @@
       "name": "Komari Mikus",
       "short": "Mikus",
       "description": "A modern, elegant Komari monitoring theme with light/dark switching and responsive grid and table views.",
-      "version": "2.0.4",
+      "version": "2.0.5",
       "author": "Miku",
       "url": "https://github.com/mikus-loli/komari-mikus",
       "preview": "https://image.mikus.ink/uploads/HayasakaAi/2026/07/05/d3eab55445a8.webp",
-      "download": "https://github.com/mikus-loli/komari-mikus/releases/download/v2.0.4/komari-mikus-v2.0.4.zip",
-      "sha256": "deff3b30dc0f88f455dad4d752be80b0bcbb4b060a11ede7361ffaeae4e20b63"
+      "download": "https://github.com/mikus-loli/komari-mikus/releases/download/v2.0.5/komari-mikus-v2.0.5.zip",
+      "sha256": "5d40b35e6b39e96c5f4118e58174c776902b0311d28337256b52f00cb458591c"
     },
     {
       "name": "MiStatus Komari",
