@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-07-31T19:53:45.198Z",
+  "updated_at": "2026-08-02T19:35:30.276Z",
   "themes": [
     {
       "name": {
@@ -130,23 +130,23 @@
       "name": "Komari Carbon",
       "short": "komari-theme-carbon",
       "description": "IBM Carbon + IBM Plex style Komari monitoring theme",
-      "version": "0.1.3",
+      "version": "0.1.5",
       "author": "gengyue2468",
       "url": "https://github.com/gengyue2468/komari-theme-carbon",
       "preview": "https://raw.githubusercontent.com/gengyue2468/komari-theme-carbon/master/preview.png",
-      "download": "https://github.com/gengyue2468/komari-theme-carbon/releases/download/v0.1.3/komari-theme-carbon-v0.1.3.zip",
-      "sha256": "7d45cd7983e13fbb906ac736f3eab685418a15dccf2d926d69da73345417b8b7"
+      "download": "https://github.com/gengyue2468/komari-theme-carbon/releases/download/v0.1.5/komari-theme-carbon-v0.1.5.zip",
+      "sha256": "3411048436d0cb02eb2075742265d15f9f4caffa28ca58757b318f8c76b5da36"
     },
     {
       "name": "Komari Home",
       "short": "komarihome",
       "description": "A Komari Web Theme with HomePage",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "mogumc",
       "url": "https://github.com/mogumc/Komari-Home",
       "preview": "https://raw.githubusercontent.com/mogumc/Komari-Home/main/preview.png",
-      "download": "https://github.com/mogumc/Komari-Home/releases/download/v1.0.0/komari-home-v1.0.0-c68b8f4.zip",
-      "sha256": "41190d93439031c441fb50a95d84816f6056a91ad653a78f33f36f69d2e54bdc"
+      "download": "https://github.com/mogumc/Komari-Home/releases/download/v1.0.1/komari-home-v1.0.1-02694a5.zip",
+      "sha256": "636ece7cdf2426dfd4082be8dc759cc4d0d758cb10db93aca2a9637b463a05a7"
     },
     {
       "name": "Kumo for Komari",
@@ -163,12 +163,12 @@
       "name": "LeoNetLab Observatory",
       "short": "LeoNetLab",
       "description": "A theme for Komari, based on Komari Emerald",
-      "version": "1.3.1-R",
+      "version": "1.3.2",
       "author": "LeoNetLab",
       "url": "https://github.com/LeonR-92/komari-theme-leonetlab",
       "preview": "https://raw.githubusercontent.com/LeonR-92/komari-theme-leonetlab/main/docs/preview.png",
-      "download": "https://github.com/LeonR-92/komari-theme-leonetlab/releases/download/v1.3.1-R/komari-theme-leonetlab-build-v1.3.1-R.zip",
-      "sha256": "427b73532a8f27a6ab3817060089cb95bdfa94cd87f5015fb6c1edf23838ebe5"
+      "download": "https://github.com/LeonR-92/komari-theme-leonetlab/releases/download/v1.3.2/komari-theme-leonetlab-build-v1.3.2.zip",
+      "sha256": "2fdea4b1d6fd26ffb1a660770ddd9d7e7dc402e49e64a7d5bec0e891fad041e8"
     },
     {
       "name": "Komari Theme Light",
@@ -216,12 +216,12 @@
       "name": "Komari Material",
       "short": "Material",
       "description": "A Material Design 3 theme for Komari Monitor",
-      "version": "1.1.5",
+      "version": "1.1.7",
       "author": "Liebesfreud",
       "url": "https://github.com/Liebesfreud/Komari-Material",
       "preview": "https://raw.githubusercontent.com/Liebesfreud/Komari-Material/main/docs/preview.png",
-      "download": "https://github.com/Liebesfreud/Komari-Material/releases/download/release-v1.1.5/komari-theme-material-build-fdfabd3.zip",
-      "sha256": "e0c4d22bdc18155a9ea1c990dd5b8e1369c1c6f26117104dda63c74b6d9d059b"
+      "download": "https://github.com/Liebesfreud/Komari-Material/releases/download/release-v1.1.7/komari-theme-material-build-a011c14.zip",
+      "sha256": "e8c8667d798eea68eff8858d0505509edf81365c536c8cfd22fe427342a97c3a"
     },
     {
       "name": "Komari Mikus",
@@ -390,15 +390,15 @@
         "zh-CN": "一款为 Komari 设计的磨砂玻璃风格个性化增强版主题",
         "en": "An enhanced, personalized frosted glass theme for Komari."
       },
-      "version": "2026.07.21.1",
+      "version": "2026.08.01.1",
       "author": {
         "zh-CN": "YannickYoung 与 Codex",
         "en": "YannickYoung & Codex"
       },
       "url": "https://github.com/YoungYannick/komari-theme-purcarte-plus",
       "preview": "https://raw.githubusercontent.com/YoungYannick/komari-theme-purcarte-plus/master/preview.png",
-      "download": "https://github.com/YoungYannick/komari-theme-purcarte-plus/releases/download/v2026.07.21.1/komari-theme-purcarte-plus.zip",
-      "sha256": "efdccc6666b62728add46541e2806a1555a2c535341c4a0123e397162ce06a2a"
+      "download": "https://github.com/YoungYannick/komari-theme-purcarte-plus/releases/download/v2026.08.01.1/komari-theme-purcarte-plus.zip",
+      "sha256": "83ac3d7f20bfd04ff4537b296b545a4517f6db08aa64b4d385746b4231051052"
     },
     {
       "name": {
