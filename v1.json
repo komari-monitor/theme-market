@@ -382,26 +382,6 @@
     },
     {
       "name": {
-        "zh-CN": "Komari Theme PurCarte Plus",
-        "en": "Komari Theme PurCarte Plus"
-      },
-      "short": "PurCarte-Plus",
-      "description": {
-        "zh-CN": "一款为 Komari 设计的磨砂玻璃风格个性化增强版主题",
-        "en": "An enhanced, personalized frosted glass theme for Komari."
-      },
-      "version": "2026.08.01.1",
-      "author": {
-        "zh-CN": "YannickYoung 与 Codex",
-        "en": "YannickYoung & Codex"
-      },
-      "url": "https://github.com/YoungYannick/komari-theme-purcarte-plus",
-      "preview": "https://raw.githubusercontent.com/YoungYannick/komari-theme-purcarte-plus/master/preview.png",
-      "download": "https://github.com/YoungYannick/komari-theme-purcarte-plus/releases/download/v2026.08.01.1/komari-theme-purcarte-plus.zip",
-      "sha256": "83ac3d7f20bfd04ff4537b296b545a4517f6db08aa64b4d385746b4231051052"
-    },
-    {
-      "name": {
         "zh-CN": "岚 (Ran)",
         "en": "Ran"
       },
