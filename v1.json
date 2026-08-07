@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "updated_at": "2026-08-07T07:42:11.116Z",
+  "updated_at": "2026-08-07T15:13:43.472Z",
   "themes": [
+    {
+      "name": "Komari Theme ASCII",
+      "short": "ASCII",
+      "description": "A terminal-style ASCII dashboard theme for Komari",
+      "version": "1.0",
+      "author": "faust",
+      "url": "https://github.com/facl/komari-ascii",
+      "preview": "https://raw.githubusercontent.com/facl/komari-ascii/main/preview.png",
+      "download": "https://github.com/facl/komari-ascii/releases/download/v1.0/komari-ascii.zip",
+      "sha256": "839bf221454f978566fb4cb03a0bfd2820058b8d455ea172fceb7f61462093c6"
+    },
     {
       "name": {
         "zh-CN": "Komari Theme Commander",
