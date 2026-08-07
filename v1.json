@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-08-05T03:33:42.313Z",
+  "updated_at": "2026-08-07T07:42:11.116Z",
   "themes": [
     {
       "name": {
@@ -46,12 +46,12 @@
       "name": "Komari Glass",
       "short": "Glass",
       "description": "一个轻量的Komari主题。",
-      "version": "1.0.5",
+      "version": "1.0.7",
       "author": "mengying",
       "url": "https://github.com/imengying/Komari-Glass",
       "preview": "https://raw.githubusercontent.com/imengying/Komari-Glass/refs/heads/main/public/preview.png",
-      "download": "https://github.com/imengying/Komari-Glass/releases/download/v1.0.5/komari-theme-glass-v1.0.5-56df872.zip",
-      "sha256": "c2ee5836e6a4df01ee191bff1df59d38fbd0f6ca2390eee34171b3119d1276d9"
+      "download": "https://github.com/imengying/Komari-Glass/releases/download/v1.0.7/komari-theme-glass-v1.0.7-bab70fa.zip",
+      "sha256": "88f8b87a45da1da217a96e14ae5ebbd36a80f16f25df5b1507c72326e83fc903"
     },
     {
       "name": "Komari Glassmorphism",
@@ -302,12 +302,12 @@
       "name": "Nezha",
       "short": "nezha",
       "description": "Nezha Theme for Komari Monitor",
-      "version": "3.0.8",
+      "version": "3.0.9",
       "author": "Nomi",
       "url": "https://github.com/nuomiiiii/nezha",
       "preview": "https://raw.githubusercontent.com/nuomiiiii/nezha/main/preview.png",
-      "download": "https://github.com/nuomiiiii/nezha/releases/download/v3.0.8/nezha-v3.0.8.zip",
-      "sha256": "e8f63a46fe336eac9fa4ec95d463ed78d9b2aecfa305e07035dd63f7f166e552"
+      "download": "https://github.com/nuomiiiii/nezha/releases/download/v3.0.9/nezha-v3.0.9.zip",
+      "sha256": "262195030e047c9cadcbf089353a989aee7220620358864732e47141deacbafe"
     },
     {
       "name": {
