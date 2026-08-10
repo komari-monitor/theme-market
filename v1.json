@@ -171,9 +171,9 @@
       "sha256": "52915687bfa3c5540a1faae6d37215106772badea042d5b971482227d77e248a"
     },
     {
-      "name": "LeoNetLab Observatory",
+      "name": "Komari Observatory",
       "short": "LeoNetLab",
-      "description": "A theme for Komari, based on Komari Emerald",
+      "description": "A soft, responsive observatory theme for Komari with live telemetry, globe and Ping analytics.",
       "version": "1.4.2",
       "author": "LeoNetLab",
       "url": "https://github.com/LeonR-92/komari-theme-leonetlab",
