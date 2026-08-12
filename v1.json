@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-08-09T13:15:53.760Z",
+  "updated_at": "2026-08-12T07:31:25.301Z",
   "themes": [
     {
       "name": "Komari Theme ASCII",
@@ -52,6 +52,17 @@
       "preview": "https://raw.githubusercontent.com/Tokinx/komari-theme-emerald/refs/heads/master/docs/preview.png",
       "download": "https://github.com/Tokinx/komari-theme-emerald/releases/download/v1.0.9/komari-theme-emerald-build-2e5aec7.zip",
       "sha256": "b56d7c7897ddbf85546f5bdd42428a9c78934a05e177aba30751a119410e01f0"
+    },
+    {
+      "name": "Komari Emerald Cazi",
+      "short": "Emerald-Cazi",
+      "description": "A configurable multi-task Komari theme customized for cazi.cc",
+      "version": "1.0.0",
+      "author": "cazi-cc",
+      "url": "https://github.com/cazi-cc/komari-theme-emerald",
+      "preview": "https://raw.githubusercontent.com/cazi-cc/komari-theme-emerald/master/docs/preview.png",
+      "download": "https://github.com/cazi-cc/komari-theme-emerald/releases/download/v1.0.0/komari-theme-emerald.zip",
+      "sha256": "4058d897ebdc2dfb859d92867a5145c7db7c7d4e9cfc2a7c18356437b578cb2a"
     },
     {
       "name": "Komari Glass",
