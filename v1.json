@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-08-12T07:31:25.301Z",
+  "updated_at": "2026-08-13T09:19:32.854Z",
   "themes": [
     {
       "name": "Komari Theme ASCII",
@@ -79,12 +79,12 @@
       "name": "Komari Glassmorphism",
       "short": "Glassmorphism",
       "description": "A Glassmorphism theme for Komari",
-      "version": "3.3.3",
+      "version": "3.3.5",
       "author": "sanrokamlan",
       "url": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism",
       "preview": "https://raw.githubusercontent.com/sanrokamlan-prog/komari-theme-Glassmorphism/refs/heads/main/docs/preview.png",
-      "download": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism/releases/download/v3.3.3/komari-theme-Glassmorphism-build-63a1d01.zip",
-      "sha256": "01a1d0111b0405f0ffaa280070d77e0dfe46bdd728edf0dbe7396a93be3ff249"
+      "download": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism/releases/download/v3.3.5/komari-theme-Glassmorphism-build-e9a7238.zip",
+      "sha256": "ff9127ee7ebd87efeb9dd4ad58b875da53d05ccc88c6f95181ac13392ed20a98"
     },
     {
       "name": "ServerStatus-Hotaru",
@@ -185,12 +185,12 @@
       "name": "Komari Observatory",
       "short": "LeoNetLab",
       "description": "A soft, responsive observatory theme for Komari with live telemetry, globe and Ping analytics.",
-      "version": "1.4.2",
+      "version": "1.4.2-fix1",
       "author": "LeoNetLab",
       "url": "https://github.com/LeonR-92/komari-theme-leonetlab",
       "preview": "https://raw.githubusercontent.com/LeonR-92/komari-theme-leonetlab/main/docs/preview.png",
-      "download": "https://github.com/LeonR-92/komari-theme-leonetlab/releases/download/v1.4.2/komari-theme-leonetlab-build-v1.4.2.zip",
-      "sha256": "99635be5d326e5ef8180dc703433f4ea044678d67a19399a0b8cc4eeda45926f"
+      "download": "https://github.com/LeonR-92/komari-theme-leonetlab/releases/download/v1.4.2-fix1/komari-theme-leonetlab-build-v1.4.2-fix1.zip",
+      "sha256": "8f4ae7c7668525701bb3f31274e15aa37f2e88711c8aedb5c0903a061f868fd5"
     },
     {
       "name": "Komari Theme Light",
@@ -238,12 +238,12 @@
       "name": "Komari Material",
       "short": "Material",
       "description": "A Material Design 3 theme for Komari Monitor",
-      "version": "1.1.7",
+      "version": "1.2.1",
       "author": "Liebesfreud",
       "url": "https://github.com/Liebesfreud/Komari-Material",
       "preview": "https://raw.githubusercontent.com/Liebesfreud/Komari-Material/main/docs/preview.png",
-      "download": "https://github.com/Liebesfreud/Komari-Material/releases/download/release-v1.1.7/komari-theme-material-build-a011c14.zip",
-      "sha256": "e8c8667d798eea68eff8858d0505509edf81365c536c8cfd22fe427342a97c3a"
+      "download": "https://github.com/Liebesfreud/Komari-Material/releases/download/release-v1.2.1/komari-theme-material-build-6f5a7cc.zip",
+      "sha256": "6fdc1d6c2f745a770393589c2807c8dd7e415113c96727e96c7b7edff8df3863"
     },
     {
       "name": "Komari Mikus",
@@ -324,12 +324,12 @@
       "name": "Nezha",
       "short": "nezha",
       "description": "Nezha Theme for Komari Monitor",
-      "version": "3.1.1",
+      "version": "3.1.2",
       "author": "Nomi",
       "url": "https://github.com/nuomiiiii/nezha",
       "preview": "https://raw.githubusercontent.com/nuomiiiii/nezha/main/preview.png",
-      "download": "https://github.com/nuomiiiii/nezha/releases/download/v3.1.1/nezha-v3.1.1.zip",
-      "sha256": "8552e1455325fe8ca5bca10644d91ffff1d716c1197380fa21c8bdc8f96a5784"
+      "download": "https://github.com/nuomiiiii/nezha/releases/download/v3.1.2/nezha-v3.1.2.zip",
+      "sha256": "503e43886eb424f1360b92b08dc1ac896ce1ba9f7609b4f7b40b2ef29664027c"
     },
     {
       "name": {
