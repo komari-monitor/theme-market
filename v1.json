@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-08-13T09:19:32.854Z",
+  "updated_at": "2026-08-13T13:38:53.860Z",
   "themes": [
     {
       "name": "Komari Theme ASCII",
@@ -452,6 +452,17 @@
       "preview": "https://raw.githubusercontent.com/komari-monitor/public/refs/heads/main/images/ServerSentry-theme.webp",
       "download": "https://github.com/Asahina1096/ServerSentry-Komari/releases/download/1.0.4/serversentry-theme-1.0.4.zip",
       "sha256": "820d0de25082ae8cf73e60e91c2dac78bbd32da60c3f0c92e88e3cd2b9a8646c"
+    },
+    {
+      "name": "Slate",
+      "short": "Slate",
+      "description": "A restrained Komari theme with a table-first home",
+      "version": "0.1.1",
+      "author": "DouDou",
+      "url": "https://github.com/xkrfer/komari-theme-slate",
+      "preview": "https://raw.githubusercontent.com/xkrfer/komari-theme-slate/main/preview.png",
+      "download": "https://github.com/xkrfer/komari-theme-slate/releases/download/v0.1.1/komari-theme-slate-v0.1.1.zip",
+      "sha256": "eb9b4bd16b99a8e3df2d2e64dbc67dff6d507f0c75b6d3fe888b53a2a456f13e"
     }
   ]
 }
