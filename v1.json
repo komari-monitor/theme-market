@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-08-13T13:38:53.860Z",
+  "updated_at": "2026-08-13T23:51:01.890Z",
   "themes": [
     {
       "name": "Komari Theme ASCII",
@@ -152,12 +152,12 @@
       "name": "Komari Carbon",
       "short": "komari-theme-carbon",
       "description": "IBM Carbon + IBM Plex style Komari monitoring theme",
-      "version": "0.1.5",
+      "version": "0.1.6",
       "author": "gengyue2468",
       "url": "https://github.com/gengyue2468/komari-theme-carbon",
       "preview": "https://raw.githubusercontent.com/gengyue2468/komari-theme-carbon/master/preview.png",
-      "download": "https://github.com/gengyue2468/komari-theme-carbon/releases/download/v0.1.5/komari-theme-carbon-v0.1.5.zip",
-      "sha256": "3411048436d0cb02eb2075742265d15f9f4caffa28ca58757b318f8c76b5da36"
+      "download": "https://github.com/gengyue2468/komari-theme-carbon/releases/download/v0.1.6/komari-theme-carbon-v0.1.6.zip",
+      "sha256": "f34b0aa42e12b5f7a2e25996c3f288585417277cdfefac51d2cd4ea72897a07c"
     },
     {
       "name": "Komari Home",
@@ -185,12 +185,12 @@
       "name": "Komari Observatory",
       "short": "LeoNetLab",
       "description": "A soft, responsive observatory theme for Komari with live telemetry, globe and Ping analytics.",
-      "version": "1.4.2-fix1",
+      "version": "1.4.3",
       "author": "LeoNetLab",
       "url": "https://github.com/LeonR-92/komari-theme-leonetlab",
       "preview": "https://raw.githubusercontent.com/LeonR-92/komari-theme-leonetlab/main/docs/preview.png",
-      "download": "https://github.com/LeonR-92/komari-theme-leonetlab/releases/download/v1.4.2-fix1/komari-theme-leonetlab-build-v1.4.2-fix1.zip",
-      "sha256": "8f4ae7c7668525701bb3f31274e15aa37f2e88711c8aedb5c0903a061f868fd5"
+      "download": "https://github.com/LeonR-92/komari-theme-leonetlab/releases/download/v1.4.3/komari-theme-leonetlab-build-v1.4.3.zip",
+      "sha256": "df8d6a1dcb99d43db2909b9acee7ecadc36e8bdb40540568a150efd884da5224"
     },
     {
       "name": "Komari Theme Light",
@@ -457,12 +457,12 @@
       "name": "Slate",
       "short": "Slate",
       "description": "A restrained Komari theme with a table-first home",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "author": "DouDou",
       "url": "https://github.com/xkrfer/komari-theme-slate",
       "preview": "https://raw.githubusercontent.com/xkrfer/komari-theme-slate/main/preview.png",
-      "download": "https://github.com/xkrfer/komari-theme-slate/releases/download/v0.1.1/komari-theme-slate-v0.1.1.zip",
-      "sha256": "eb9b4bd16b99a8e3df2d2e64dbc67dff6d507f0c75b6d3fe888b53a2a456f13e"
+      "download": "https://github.com/xkrfer/komari-theme-slate/releases/download/v0.1.2/komari-theme-slate-v0.1.2.zip",
+      "sha256": "8bd48ebfb2ab9ff32b956b1f955d0ddbadf8db776fb6aebb246a5223f209f5a9"
     }
   ]
 }
