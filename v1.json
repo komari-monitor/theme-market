@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-08-15T01:50:00.399Z",
+  "updated_at": "2026-08-16T10:35:48.028Z",
   "themes": [
     {
       "name": "Komari Theme ASCII",
@@ -222,6 +222,17 @@
       "preview": "https://raw.githubusercontent.com/stqfdyr/komari-theme-Lumina/refs/heads/main/preview.png",
       "download": "https://github.com/stqfdyr/komari-theme-Lumina/releases/download/v1.1.6/Lumina-v1.1.6.zip",
       "sha256": "a8847c40ee59bc3ab8d9f9173f34d4aa8a2a1f51ada8b5075901a677352038a5"
+    },
+    {
+      "name": "Komari-Theme-LuminaLite",
+      "short": "LuminaLite",
+      "description": "Komari-Theme-LuminaLite",
+      "version": "2.7.2",
+      "author": "JohnsonRan",
+      "url": "https://github.com/JohnsonRan/Komari-Theme-LuminaLite",
+      "preview": "https://github.com/JohnsonRan/Komari-Theme-LuminaLite/raw/main/preview.png",
+      "download": "https://github.com/JohnsonRan/Komari-Theme-LuminaLite/releases/download/v2.7.2/Komari-Theme-LuminaLite-v2.7.2.zip",
+      "sha256": "6f4a4406279f9f9e32dac525a1d8b211f6647260eaf76cacf758ac45bb8e2c63"
     },
     {
       "name": "Komari-Theme-LuminaPlus",
