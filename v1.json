@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-08-16T10:35:48.028Z",
+  "updated_at": "2026-08-17T03:12:49.192Z",
   "themes": [
     {
       "name": "Komari Theme ASCII",
@@ -163,12 +163,12 @@
       "name": "Komari Home",
       "short": "komarihome",
       "description": "A Komari Web Theme with HomePage",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "author": "mogumc",
       "url": "https://github.com/mogumc/Komari-Home",
       "preview": "https://raw.githubusercontent.com/mogumc/Komari-Home/main/preview.png",
-      "download": "https://github.com/mogumc/Komari-Home/releases/download/v1.0.1/komari-home-v1.0.1-02694a5.zip",
-      "sha256": "636ece7cdf2426dfd4082be8dc759cc4d0d758cb10db93aca2a9637b463a05a7"
+      "download": "https://github.com/mogumc/Komari-Home/releases/download/v1.0.2/komari-home-v1.0.2-9e82ab8.zip",
+      "sha256": "695473ae9ef6295eeefd837d1b6eddfa05ac1c7002d01ad58f59c4ea521c95e5"
     },
     {
       "name": "Kumo for Komari",
@@ -227,23 +227,23 @@
       "name": "Komari-Theme-LuminaLite",
       "short": "LuminaLite",
       "description": "Komari-Theme-LuminaLite",
-      "version": "2.7.2",
+      "version": "2.7.3",
       "author": "JohnsonRan",
       "url": "https://github.com/JohnsonRan/Komari-Theme-LuminaLite",
       "preview": "https://github.com/JohnsonRan/Komari-Theme-LuminaLite/raw/main/preview.png",
-      "download": "https://github.com/JohnsonRan/Komari-Theme-LuminaLite/releases/download/v2.7.2/Komari-Theme-LuminaLite-v2.7.2.zip",
-      "sha256": "6f4a4406279f9f9e32dac525a1d8b211f6647260eaf76cacf758ac45bb8e2c63"
+      "download": "https://github.com/JohnsonRan/Komari-Theme-LuminaLite/releases/download/v2.7.3/Komari-Theme-LuminaLite-v2.7.3.zip",
+      "sha256": "26d4dc49d5dce2de0ebc904f0f33011bd6b428743081a7e7ef478ec38f786807"
     },
     {
       "name": "Komari-Theme-LuminaPlus",
       "short": "LuminaPlus",
       "description": "Komari-Theme-LuminaPlus",
-      "version": "1.2.8",
+      "version": "1.2.9",
       "author": "shark&shanyang",
       "url": "https://github.com/shanyang242/Komari-Theme-LuminaPlus",
       "preview": "https://raw.githubusercontent.com/shanyang242/Komari-Theme-LuminaPlus/refs/heads/main/docs/images/v1.1.9/overview-large-card-solid.png",
-      "download": "https://github.com/shanyang242/Komari-Theme-LuminaPlus/releases/download/v1.2.8/Komari-Theme-LuminaPlus-v1.2.8.zip",
-      "sha256": "07622b06faa4c365a0e61cb3922550fc48e770d30f1016302451e2cc7024daa3"
+      "download": "https://github.com/shanyang242/Komari-Theme-LuminaPlus/releases/download/v1.2.9/Komari-Theme-LuminaPlus-v1.2.9.zip",
+      "sha256": "d00e9bd43f752421e01caad86955a08398da4983a6ba96c27b8cdaad26345e9e"
     },
     {
       "name": "Komari Material",
