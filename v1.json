@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-08-17T03:12:49.192Z",
+  "updated_at": "2026-08-17T16:20:17.349Z",
   "themes": [
     {
       "name": "Komari Theme ASCII",
@@ -127,6 +127,17 @@
       "preview": "https://raw.githubusercontent.com/DeerYang/komari-deer/refs/heads/main/preview.png",
       "download": "https://github.com/DeerYang/komari-deer/releases/download/v0.1.0/komari-deer-v0.1.0.zip",
       "sha256": "6b77652e3472cc0ac5ede3e10eaa511e3f7e3251181ef3f930ecf06dc0283b6f"
+    },
+    {
+      "name": "Komari MDUI",
+      "short": "komari-mdui",
+      "description": "A clean Material Design 3 theme for Komari, built with MDUI + Vue 3",
+      "version": "1.0.0",
+      "author": "mogumc",
+      "url": "https://github.com/mogumc/komari-mdui",
+      "preview": "https://github.com/mogumc/komari-mdui/raw/main/preview.webp",
+      "download": "https://github.com/mogumc/komari-mdui/releases/download/v1.0.0/komari-mdui-v1.0.0-a7b552d.zip",
+      "sha256": "4bcf25e12ef56d4ed57127bf4a8b1972bbd4a56d2594b8eb5b9242e480ac1a6d"
     },
     {
       "name": {
