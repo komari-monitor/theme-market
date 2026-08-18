@@ -1,7 +1,18 @@
 {
   "schema": 1,
-  "updated_at": "2026-08-17T16:20:17.349Z",
+  "updated_at": "2026-08-18T08:36:57.671Z",
   "themes": [
+    {
+      "name": "Adhesive Note",
+      "short": "AdhesiveNote",
+      "description": "把每台服务器变成一张贴在墙上的手写便利贴",
+      "version": "1.0.0",
+      "author": "stqfdyr",
+      "url": "https://github.com/stqfdyr/komari-theme-adhesive-note",
+      "preview": "https://raw.githubusercontent.com/stqfdyr/komari-theme-adhesive-note/main/preview.webp",
+      "download": "https://github.com/stqfdyr/komari-theme-adhesive-note/releases/download/v1.0.0/komari-theme-adhesivenote-v1.0.0.zip",
+      "sha256": "94f69c657413e7b3204cfea0bce94f1ee5deb1f897364664b27367b592d49c80"
+    },
     {
       "name": "Komari Theme ASCII",
       "short": "ASCII",
