@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-08-19T08:24:39.912Z",
+  "updated_at": "2026-08-20T12:24:39.266Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -17,12 +17,12 @@
       "name": "Komari Animal Island",
       "short": "AnimalIsland",
       "description": "使用 Animal Island UI 构建的温暖游戏风简单的 Komari 监控主题。",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "author": "JeraldMaster",
       "url": "https://github.com/imbigbomb/komari-animal-island",
       "preview": "https://raw.githubusercontent.com/imbigbomb/komari-animal-island/main/preview.png",
-      "download": "https://github.com/imbigbomb/komari-animal-island/releases/download/v1.0.3/AnimalIsland-1.0.3.zip",
-      "sha256": "fa9ca143107c07077bd876b065f7881d8db9b985ec3104845ac798be2890d7f1"
+      "download": "https://github.com/imbigbomb/komari-animal-island/releases/download/v1.0.6/AnimalIsland-1.0.6.zip",
+      "sha256": "ec4b71cb8679e69919f1653f5ed8803881738e243b931cb6b38c6e8d0b749c13"
     },
     {
       "name": "Komari Theme ASCII",
@@ -65,15 +65,15 @@
         "zh-CN": "翡翠配色的 Komari 主题。",
         "en": "An emerald theme for Komari."
       },
-      "version": "1.0.9",
+      "version": "1.0.10",
       "author": {
         "zh-CN": "Tokinx",
         "en": "Tokinx"
       },
       "url": "https://github.com/Tokinx/komari-theme-emerald",
       "preview": "https://raw.githubusercontent.com/Tokinx/komari-theme-emerald/refs/heads/master/docs/preview.png",
-      "download": "https://github.com/Tokinx/komari-theme-emerald/releases/download/v1.0.9/komari-theme-emerald-build-2e5aec7.zip",
-      "sha256": "b56d7c7897ddbf85546f5bdd42428a9c78934a05e177aba30751a119410e01f0"
+      "download": "https://github.com/Tokinx/komari-theme-emerald/releases/download/v1.0.10/komari-theme-emerald-build-1372043.zip",
+      "sha256": "0adee50cc07e1520ac5ad9963b1f541f565ca9d76bd20eb1974a862c694e5c28"
     },
     {
       "name": "Komari Emerald Cazi",
@@ -90,23 +90,23 @@
       "name": "Komari Glass",
       "short": "Glass",
       "description": "一个轻量的Komari主题。",
-      "version": "1.0.7",
+      "version": "1.1.0",
       "author": "mengying",
       "url": "https://github.com/imengying/Komari-Glass",
       "preview": "https://raw.githubusercontent.com/imengying/Komari-Glass/refs/heads/main/public/preview.png",
-      "download": "https://github.com/imengying/Komari-Glass/releases/download/v1.0.7/komari-theme-glass-v1.0.7-bab70fa.zip",
-      "sha256": "88f8b87a45da1da217a96e14ae5ebbd36a80f16f25df5b1507c72326e83fc903"
+      "download": "https://github.com/imengying/Komari-Glass/releases/download/v1.1.0/komari-theme-glass-v1.1.0-1081266.zip",
+      "sha256": "d6f8c5d1320103814151318d520fa84c4adec67870ea7d14b6b1e0efee79bdcf"
     },
     {
       "name": "Komari Glassmorphism",
       "short": "Glassmorphism",
       "description": "A Glassmorphism theme for Komari",
-      "version": "3.3.6",
+      "version": "3.3.7",
       "author": "sanrokamlan",
       "url": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism",
       "preview": "https://raw.githubusercontent.com/sanrokamlan-prog/komari-theme-Glassmorphism/refs/heads/main/docs/preview.png",
-      "download": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism/releases/download/v3.3.6/komari-theme-Glassmorphism-build-b353afb.zip",
-      "sha256": "fd19c0d55e2d0c3a6744a3936e393f3a8c9e8b19d58836a7d2d9752476345557"
+      "download": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism/releases/download/v3.3.7/komari-theme-Glassmorphism-build-bf83765.zip",
+      "sha256": "6f0a2e1bab9e861d4d1d2e65ea54598307938e6c4f8d9616efaf99d2597c7d2f"
     },
     {
       "name": "ServerStatus-Hotaru",
@@ -368,12 +368,12 @@
       "name": "Nezha",
       "short": "nezha",
       "description": "Nezha Theme for Komari Monitor",
-      "version": "3.1.3",
+      "version": "3.1.4",
       "author": "Nomi",
       "url": "https://github.com/nuomiiiii/nezha",
       "preview": "https://raw.githubusercontent.com/nuomiiiii/nezha/main/preview.png",
-      "download": "https://github.com/nuomiiiii/nezha/releases/download/v3.1.3/nezha-v3.1.3.zip",
-      "sha256": "cfb44963215d43baaae299546eabb24e3cc1b46a8d74742f22c44a7728437138"
+      "download": "https://github.com/nuomiiiii/nezha/releases/download/v3.1.4/nezha-v3.1.4.zip",
+      "sha256": "584ae6f47c63079c4c4b5156f32183b7593f8035d6f0f5fe768834611d824064"
     },
     {
       "name": {
@@ -456,15 +456,15 @@
         "zh-CN": "一款为 Komari 设计的磨砂玻璃风格个性化增强版主题",
         "en": "An enhanced, personalized frosted glass theme for Komari."
       },
-      "version": "2026.08.01.1",
+      "version": "2026.08.20.1",
       "author": {
         "zh-CN": "YannickYoung 与 Codex",
         "en": "YannickYoung & Codex"
       },
       "url": "https://github.com/YoungYannick/komari-theme-purcarte-plus",
       "preview": "https://raw.githubusercontent.com/YoungYannick/komari-theme-purcarte-plus/master/preview.png",
-      "download": "https://github.com/YoungYannick/komari-theme-purcarte-plus/releases/download/v2026.08.01.1/komari-theme-purcarte-plus.zip",
-      "sha256": "83ac3d7f20bfd04ff4537b296b545a4517f6db08aa64b4d385746b4231051052"
+      "download": "https://github.com/YoungYannick/komari-theme-purcarte-plus/releases/download/v2026.08.20.1/komari-theme-purcarte-plus.zip",
+      "sha256": "fd3dafbea8ab4e67dd5989007db0c68f5bc2d749716162bbb506870b40898479"
     },
     {
       "name": {
