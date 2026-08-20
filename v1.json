@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-08-18T08:36:57.671Z",
+  "updated_at": "2026-08-19T08:24:39.912Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -12,6 +12,17 @@
       "preview": "https://raw.githubusercontent.com/stqfdyr/komari-theme-adhesive-note/main/preview.webp",
       "download": "https://github.com/stqfdyr/komari-theme-adhesive-note/releases/download/v1.0.0/komari-theme-adhesivenote-v1.0.0.zip",
       "sha256": "94f69c657413e7b3204cfea0bce94f1ee5deb1f897364664b27367b592d49c80"
+    },
+    {
+      "name": "Komari Animal Island",
+      "short": "AnimalIsland",
+      "description": "使用 Animal Island UI 构建的温暖游戏风简单的 Komari 监控主题。",
+      "version": "1.0.3",
+      "author": "JeraldMaster",
+      "url": "https://github.com/imbigbomb/komari-animal-island",
+      "preview": "https://raw.githubusercontent.com/imbigbomb/komari-animal-island/main/preview.png",
+      "download": "https://github.com/imbigbomb/komari-animal-island/releases/download/v1.0.3/AnimalIsland-1.0.3.zip",
+      "sha256": "fa9ca143107c07077bd876b065f7881d8db9b985ec3104845ac798be2890d7f1"
     },
     {
       "name": "Komari Theme ASCII",
