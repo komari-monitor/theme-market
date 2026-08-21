@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-08-20T12:24:39.266Z",
+  "updated_at": "2026-08-21T00:58:57.401Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -118,6 +118,17 @@
       "preview": "https://raw.githubusercontent.com/komari-monitor/public/refs/heads/main/images/hotaru-theme.png",
       "download": "https://github.com/komari-monitor/komari-web/releases/download/1.0.3/komari-theme-hotaru.zip",
       "sha256": "b5d86521b2614b2ddd85ec049a80f2e9e739a1de77992fd43a15db049facd5d2"
+    },
+    {
+      "name": "junimo",
+      "short": "Junimo",
+      "description": "junimo",
+      "version": "2.0.1",
+      "author": "Planck",
+      "url": "https://github.com/vaspike/junimo",
+      "preview": "https://nyx.rivermao.com/img/nomal/a4f393.png",
+      "download": "https://github.com/vaspike/junimo/releases/download/v2.0.1/junimo-v2.0.1.zip",
+      "sha256": "7e4bf0e231f230d5602a834e815e92aa91d52f3d388d5439386b1ba5de052978"
     },
     {
       "name": "Komari 1999",
