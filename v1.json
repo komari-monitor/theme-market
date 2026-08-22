@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-08-21T00:58:57.401Z",
+  "updated_at": "2026-08-22T18:49:57.613Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -123,12 +123,12 @@
       "name": "junimo",
       "short": "Junimo",
       "description": "junimo",
-      "version": "2.0.1",
+      "version": "2.0.2",
       "author": "Planck",
       "url": "https://github.com/vaspike/junimo",
       "preview": "https://nyx.rivermao.com/img/nomal/a4f393.png",
-      "download": "https://github.com/vaspike/junimo/releases/download/v2.0.1/junimo-v2.0.1.zip",
-      "sha256": "7e4bf0e231f230d5602a834e815e92aa91d52f3d388d5439386b1ba5de052978"
+      "download": "https://github.com/vaspike/junimo/releases/download/v2.0.2/junimo-v2.0.2.zip",
+      "sha256": "3c44d18ced122b70a0b7b68d9a887d3ca1f1b0f556d274cbc3605313433f4818"
     },
     {
       "name": "Komari 1999",
@@ -229,12 +229,12 @@
       "name": "Komari Observatory",
       "short": "LeoNetLab",
       "description": "A soft, responsive observatory theme for Komari with live telemetry, globe and Ping analytics.",
-      "version": "1.4.3-fix1",
+      "version": "1.4.3-fix2",
       "author": "LeoNetLab",
       "url": "https://github.com/LeonR-92/komari-theme-leonetlab",
       "preview": "https://raw.githubusercontent.com/LeonR-92/komari-theme-leonetlab/main/docs/preview.png",
-      "download": "https://github.com/LeonR-92/komari-theme-leonetlab/releases/download/v1.4.3-fix1/komari-theme-leonetlab-build-v1.4.3-fix1.zip",
-      "sha256": "8f5873cfb52a61cf9be0ed07cbf2474bb4969ab0110fd154863859a54e4cecb1"
+      "download": "https://github.com/LeonR-92/komari-theme-leonetlab/releases/download/v1.4.3-fix2/komari-theme-leonetlab-build-v1.4.3-fix2.zip",
+      "sha256": "736120d19879f08d2db160545c5c643f865092a4a1c2e18a8e2fff5b36b5071a"
     },
     {
       "name": "Komari Theme Light",
@@ -293,12 +293,12 @@
       "name": "Komari Material",
       "short": "Material",
       "description": "A Material Design 3 theme for Komari Monitor",
-      "version": "1.2.1",
+      "version": "1.3.1",
       "author": "Liebesfreud",
       "url": "https://github.com/Liebesfreud/Komari-Material",
       "preview": "https://raw.githubusercontent.com/Liebesfreud/Komari-Material/main/docs/preview.png",
-      "download": "https://github.com/Liebesfreud/Komari-Material/releases/download/release-v1.2.1/komari-theme-material-build-6f5a7cc.zip",
-      "sha256": "6fdc1d6c2f745a770393589c2807c8dd7e415113c96727e96c7b7edff8df3863"
+      "download": "https://github.com/Liebesfreud/Komari-Material/releases/download/release-v1.3.1/komari-theme-material-build-6685ec1.zip",
+      "sha256": "d9e85473e558f2cf630360f520f3dda8195a49a61ddc3555033c5700f0090341"
     },
     {
       "name": "Komari Mikus",
@@ -436,15 +436,15 @@
         "zh-CN": "暖色纸张与手写风格的编辑式 Komari 主题。",
         "en": "An editorial Komari theme with warm paper, serif type and handwritten accents."
       },
-      "version": "26.07.25",
+      "version": "26.08.22-4",
       "author": {
         "zh-CN": "wood",
         "en": "wood"
       },
       "url": "https://github.com/woodchen-ink/komari-paper",
       "preview": "https://raw.githubusercontent.com/woodchen-ink/komari-paper/refs/heads/main/preview.png",
-      "download": "https://github.com/woodchen-ink/komari-paper/releases/download/v26.07.25/komari-paper-v26.07.25.zip",
-      "sha256": "94dd5f607752e36bc688960d20f860a8c5a77aaf734df5e476ce01eb88a5026f"
+      "download": "https://github.com/woodchen-ink/komari-paper/releases/download/v26.08.22-4/komari-paper-v26.08.22-4.zip",
+      "sha256": "33b62e9c07d6d327bf5a7389ede85da468f233ae9d2c8dc0ef2dcda0aeb7c1cc"
     },
     {
       "name": "Komari Theme PurCarte",
