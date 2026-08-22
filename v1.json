@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-08-21T00:58:57.401Z",
+  "updated_at": "2026-08-22T02:21:11.033Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -518,6 +518,17 @@
       "preview": "https://raw.githubusercontent.com/xkrfer/komari-theme-slate/main/preview.png",
       "download": "https://github.com/xkrfer/komari-theme-slate/releases/download/v0.1.10/komari-theme-slate-v0.1.10.zip",
       "sha256": "ae352998875284b1a0c2634d2fbe8e91294e17f8b7b233ddd1b39ec12a892e38"
+    },
+    {
+      "name": "Transit",
+      "short": "Transit",
+      "description": "A topology-first network operations theme for Komari",
+      "version": "1.2.0",
+      "author": "PandaKiko, based on sanrokamlan/vlongx",
+      "url": "https://github.com/yyy622hhh/komari-theme-transit",
+      "preview": "https://github.com/yyy622hhh/komari-theme-transit/raw/main/docs/screenshots/transit-overview-dark.png",
+      "download": "https://github.com/yyy622hhh/komari-theme-transit/releases/download/v1.2.0/komari-theme-Transit-build-b936e7a.zip",
+      "sha256": "242700981ef3a03327063230b59fedaed42fde41b2e4cd3aaadac3a1e6e6d348"
     }
   ]
 }
