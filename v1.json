@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-08-22T02:21:11.033Z",
+  "updated_at": "2026-08-23T23:09:48.810Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -507,6 +507,17 @@
       "preview": "https://raw.githubusercontent.com/komari-monitor/public/refs/heads/main/images/ServerSentry-theme.webp",
       "download": "https://github.com/Asahina1096/ServerSentry-Komari/releases/download/1.0.4/serversentry-theme-1.0.4.zip",
       "sha256": "820d0de25082ae8cf73e60e91c2dac78bbd32da60c3f0c92e88e3cd2b9a8646c"
+    },
+    {
+      "name": "ServerStatus · Komari",
+      "short": "ServerStatus",
+      "description": "A native Komari port of the classic compact ServerStatus table theme.",
+      "version": "1.0.18",
+      "author": "tfhmc&chatgpt",
+      "url": "https://github.com/tfhmc/serverstatus",
+      "preview": "https://raw.githubusercontent.com/tfhmc/serverstatus/main/preview.png",
+      "download": "https://github.com/tfhmc/serverstatus/releases/download/v1.0.18/ServerStatus-v1.0.18.zip",
+      "sha256": "50398035ab1179bb2df3c04857057072b0f955d65166811da1655d7d6e3441cc"
     },
     {
       "name": "Slate",
