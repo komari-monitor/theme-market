@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-08-23T23:12:08.552Z",
+  "updated_at": "2026-08-25T01:52:59.826Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -436,15 +436,15 @@
         "zh-CN": "暖色纸张与手写风格的编辑式 Komari 主题。",
         "en": "An editorial Komari theme with warm paper, serif type and handwritten accents."
       },
-      "version": "26.08.22-4",
+      "version": "26.08.24",
       "author": {
         "zh-CN": "wood",
         "en": "wood"
       },
       "url": "https://github.com/woodchen-ink/komari-paper",
       "preview": "https://raw.githubusercontent.com/woodchen-ink/komari-paper/refs/heads/main/preview.png",
-      "download": "https://github.com/woodchen-ink/komari-paper/releases/download/v26.08.22-4/komari-paper-v26.08.22-4.zip",
-      "sha256": "33b62e9c07d6d327bf5a7389ede85da468f233ae9d2c8dc0ef2dcda0aeb7c1cc"
+      "download": "https://github.com/woodchen-ink/komari-paper/releases/download/v26.08.24/komari-paper-v26.08.24.zip",
+      "sha256": "0ef918571678794b16994077514e7467d80bc6d7f4f3a7e846a358904688c0bd"
     },
     {
       "name": "Komari Theme PurCarte",
