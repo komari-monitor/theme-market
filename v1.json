@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-08-26T03:48:51.622Z",
+  "updated_at": "2026-08-26T23:46:40.947Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -551,6 +551,17 @@
       "preview": "https://github.com/yyy622hhh/komari-theme-transit/raw/main/docs/screenshots/transit-overview-dark.png",
       "download": "https://github.com/yyy622hhh/komari-theme-transit/releases/download/v1.2.0/komari-theme-Transit-build-b936e7a.zip",
       "sha256": "242700981ef3a03327063230b59fedaed42fde41b2e4cd3aaadac3a1e6e6d348"
+    },
+    {
+      "name": "Komari Zen",
+      "short": "Zen",
+      "description": "基于极简主义设计理念的 Komari 主题。",
+      "version": "1.0.3",
+      "author": "qwer-xyz",
+      "url": "https://github.com/qwer-xyz/komari-theme-zen",
+      "preview": "https://raw.githubusercontent.com/qwer-xyz/komari-theme-zen/refs/heads/main/preview.png",
+      "download": "https://github.com/qwer-xyz/komari-theme-zen/releases/download/v1.0.3/zen-theme-v1.0.3.zip",
+      "sha256": "02e924069bfff5097d3deb1815ee7d6448ba92e590aa7001af4912c2661dcd5c"
     }
   ]
 }
