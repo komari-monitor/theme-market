@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-08-26T01:59:04.954Z",
+  "updated_at": "2026-08-26T03:48:51.622Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -107,6 +107,17 @@
       "preview": "https://raw.githubusercontent.com/sanrokamlan-prog/komari-theme-Glassmorphism/refs/heads/main/docs/preview.png",
       "download": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism/releases/download/v3.3.7/komari-theme-Glassmorphism-build-bf83765.zip",
       "sha256": "6f0a2e1bab9e861d4d1d2e65ea54598307938e6c4f8d9616efaf99d2597c7d2f"
+    },
+    {
+      "name": "Gloria Universe",
+      "short": "GloriaUniverse",
+      "description": "邓紫棋粉丝向 GLORIA 数字宇宙监控主题：星辰节点、星网地图、舞台能量与 I AM GLORIA 彩蛋",
+      "version": "1.5.2",
+      "author": "TonyStarkJr2021",
+      "url": "https://github.com/TonyStarkJr2021/komari-theme-Gloria-Universe",
+      "preview": "https://raw.githubusercontent.com/TonyStarkJr2021/komari-theme-Gloria-Universe/main/preview.png",
+      "download": "https://github.com/TonyStarkJr2021/komari-theme-Gloria-Universe/releases/download/v1.5.2/komari-theme-Gloria-Universe-v1.5.2-939ed7b.zip",
+      "sha256": "3f2401d68fcdd8b3b328b2c74fc13661697cc75543e88e72c27fc0e1ced001dd"
     },
     {
       "name": "ServerStatus-Hotaru",
