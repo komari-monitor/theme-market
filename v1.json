@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-08-26T23:46:40.947Z",
+  "updated_at": "2026-09-01T21:03:11.312Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -45,15 +45,15 @@
         "zh-CN": "赛博朋克命令终端主题，带 3D 地球与 HUD 风格节点卡片。",
         "en": "A cyberpunk command terminal theme with an interactive 3D globe and HUD-style node cards."
       },
-      "version": "1.5.4",
+      "version": "1.5.5",
       "author": {
         "zh-CN": "WayJam",
         "en": "WayJam"
       },
       "url": "https://github.com/wayjam/komari-theme-commander",
       "preview": "https://raw.githubusercontent.com/wayjam/komari-theme-commander/refs/heads/main/preview.png",
-      "download": "https://github.com/wayjam/komari-theme-commander/releases/download/v1.5.4/komari-theme-commander%401.5.4.zip",
-      "sha256": "67000fc43933547fbb22d8598532b03ccd3b1711e69b9c25536c2672fbeb2537"
+      "download": "https://github.com/wayjam/komari-theme-commander/releases/download/v1.5.5/komari-theme-commander%401.5.5.zip",
+      "sha256": "66f4520b1ec26533134c2674d4136ee24ab0b7be49248b1e64ed47873ae6d1ca"
     },
     {
       "name": {
@@ -65,15 +65,15 @@
         "zh-CN": "翡翠配色的 Komari 主题。",
         "en": "An emerald theme for Komari."
       },
-      "version": "1.0.10",
+      "version": "1.0.11",
       "author": {
         "zh-CN": "Tokinx",
         "en": "Tokinx"
       },
       "url": "https://github.com/Tokinx/komari-theme-emerald",
       "preview": "https://raw.githubusercontent.com/Tokinx/komari-theme-emerald/refs/heads/master/docs/preview.png",
-      "download": "https://github.com/Tokinx/komari-theme-emerald/releases/download/v1.0.10/komari-theme-emerald-build-1372043.zip",
-      "sha256": "0adee50cc07e1520ac5ad9963b1f541f565ca9d76bd20eb1974a862c694e5c28"
+      "download": "https://github.com/Tokinx/komari-theme-emerald/releases/download/v1.0.11/komari-theme-emerald-build-b7baf45.zip",
+      "sha256": "36b2003abdb690eea4939e94e39b22c2c657ab7ac388a41425f5b579a3153c06"
     },
     {
       "name": "Komari Emerald Cazi",
@@ -112,12 +112,12 @@
       "name": "Gloria Universe",
       "short": "GloriaUniverse",
       "description": "邓紫棋粉丝向 GLORIA 数字宇宙监控主题：星辰节点、星网地图、舞台能量与 I AM GLORIA 彩蛋",
-      "version": "1.5.2",
+      "version": "1.5.7",
       "author": "TonyStarkJr2021",
       "url": "https://github.com/TonyStarkJr2021/komari-theme-Gloria-Universe",
       "preview": "https://raw.githubusercontent.com/TonyStarkJr2021/komari-theme-Gloria-Universe/main/preview.png",
-      "download": "https://github.com/TonyStarkJr2021/komari-theme-Gloria-Universe/releases/download/v1.5.2/komari-theme-Gloria-Universe-v1.5.2-939ed7b.zip",
-      "sha256": "3f2401d68fcdd8b3b328b2c74fc13661697cc75543e88e72c27fc0e1ced001dd"
+      "download": "https://github.com/TonyStarkJr2021/komari-theme-Gloria-Universe/releases/download/v1.5.7/komari-theme-Gloria-Universe-v1.5.7-4bf77d1.zip",
+      "sha256": "be36f022e0e5c29a2805fe3fcb04e455f2867dff64dd02cf82b435859d34dd26"
     },
     {
       "name": "ServerStatus-Hotaru",
@@ -240,12 +240,12 @@
       "name": "Komari Observatory",
       "short": "LeoNetLab",
       "description": "A soft, responsive observatory theme for Komari with live telemetry, globe and Ping analytics.",
-      "version": "1.4.3-fix2",
+      "version": "1.4.3-fix3",
       "author": "LeoNetLab",
       "url": "https://github.com/LeonR-92/komari-theme-leonetlab",
       "preview": "https://raw.githubusercontent.com/LeonR-92/komari-theme-leonetlab/main/docs/preview.png",
-      "download": "https://github.com/LeonR-92/komari-theme-leonetlab/releases/download/v1.4.3-fix2/komari-theme-leonetlab-build-v1.4.3-fix2.zip",
-      "sha256": "736120d19879f08d2db160545c5c643f865092a4a1c2e18a8e2fff5b36b5071a"
+      "download": "https://github.com/LeonR-92/komari-theme-leonetlab/releases/download/v1.4.3-fix3/komari-theme-leonetlab-build-v1.4.3-fix3.zip",
+      "sha256": "a1b5195bc604be1423df237fb9b285fbb90a26ffe13c469c733123b5280af85d"
     },
     {
       "name": "Komari Theme Light",
@@ -293,23 +293,23 @@
       "name": "Komari-Theme-LuminaPlus",
       "short": "LuminaPlus",
       "description": "Komari-Theme-LuminaPlus",
-      "version": "1.2.9",
+      "version": "1.3.0",
       "author": "shark&shanyang",
       "url": "https://github.com/shanyang242/Komari-Theme-LuminaPlus",
       "preview": "https://raw.githubusercontent.com/shanyang242/Komari-Theme-LuminaPlus/refs/heads/main/docs/images/v1.1.9/overview-large-card-solid.png",
-      "download": "https://github.com/shanyang242/Komari-Theme-LuminaPlus/releases/download/v1.2.9/Komari-Theme-LuminaPlus-v1.2.9.zip",
-      "sha256": "d00e9bd43f752421e01caad86955a08398da4983a6ba96c27b8cdaad26345e9e"
+      "download": "https://github.com/shanyang242/Komari-Theme-LuminaPlus/releases/download/v1.3.0/Komari-Theme-LuminaPlus-v1.3.0.zip",
+      "sha256": "5c967f7a3b7d5bd7105a4f776341e89543b74bb92455c60902c05114f8f9fba6"
     },
     {
       "name": "Komari Material",
       "short": "Material",
       "description": "A Material Design 3 theme for Komari Monitor",
-      "version": "1.3.1",
+      "version": "1.4.0",
       "author": "Liebesfreud",
       "url": "https://github.com/Liebesfreud/Komari-Material",
       "preview": "https://raw.githubusercontent.com/Liebesfreud/Komari-Material/main/docs/preview.png",
-      "download": "https://github.com/Liebesfreud/Komari-Material/releases/download/release-v1.3.1/komari-theme-material-build-6685ec1.zip",
-      "sha256": "d9e85473e558f2cf630360f520f3dda8195a49a61ddc3555033c5700f0090341"
+      "download": "https://github.com/Liebesfreud/Komari-Material/releases/download/release-v1.4.0/komari-theme-material-build-90daf00.zip",
+      "sha256": "1368fa2d3a41d38ea2dae29394e4b354979010ee4509ea11b55b42735b4653d4"
     },
     {
       "name": "Komari Mikus",
@@ -447,15 +447,15 @@
         "zh-CN": "暖色纸张与手写风格的编辑式 Komari 主题。",
         "en": "An editorial Komari theme with warm paper, serif type and handwritten accents."
       },
-      "version": "26.08.24",
+      "version": "26.09.01",
       "author": {
         "zh-CN": "wood",
         "en": "wood"
       },
       "url": "https://github.com/woodchen-ink/komari-paper",
       "preview": "https://raw.githubusercontent.com/woodchen-ink/komari-paper/refs/heads/main/preview.png",
-      "download": "https://github.com/woodchen-ink/komari-paper/releases/download/v26.08.24/komari-paper-v26.08.24.zip",
-      "sha256": "0ef918571678794b16994077514e7467d80bc6d7f4f3a7e846a358904688c0bd"
+      "download": "https://github.com/woodchen-ink/komari-paper/releases/download/v26.09.01/komari-paper-v26.09.01.zip",
+      "sha256": "9fa04cd70744515b28828402bbe6e84ff106b2f73d052aeb4e94b2f4e2a23840"
     },
     {
       "name": "Komari Theme PurCarte",
@@ -556,12 +556,12 @@
       "name": "Komari Zen",
       "short": "Zen",
       "description": "基于极简主义设计理念的 Komari 主题。",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "author": "qwer-xyz",
       "url": "https://github.com/qwer-xyz/komari-theme-zen",
       "preview": "https://raw.githubusercontent.com/qwer-xyz/komari-theme-zen/refs/heads/main/preview.png",
-      "download": "https://github.com/qwer-xyz/komari-theme-zen/releases/download/v1.0.3/zen-theme-v1.0.3.zip",
-      "sha256": "02e924069bfff5097d3deb1815ee7d6448ba92e590aa7001af4912c2661dcd5c"
+      "download": "https://github.com/qwer-xyz/komari-theme-zen/releases/download/v1.0.4/zen-theme-v1.0.4.zip",
+      "sha256": "057cfa15486a93c83f5840e25fe69639d242e7c778f4e70e620ca639bf73b242"
     }
   ]
 }
