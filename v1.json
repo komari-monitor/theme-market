@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-04T09:09:14.615Z",
+  "updated_at": "2026-09-04T09:10:12.683Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -39,12 +39,12 @@
       "name": "Komari Butterfly",
       "short": "Butterfly",
       "description": "A clean WinUI 3 and Mica-inspired Komari monitoring theme with a tonal dark interface, a touch-optimized mobile layout, an interactive node globe, latency distribution, live traffic, favorites, and node details.",
-      "version": "1.3.0",
+      "version": "1.5.0",
       "author": "TomorrowX6",
       "url": "https://github.com/TomorrowX6/Komari-Butterfly",
       "preview": "https://raw.githubusercontent.com/TomorrowX6/Komari-Butterfly/refs/heads/main/preview.png",
-      "download": "https://github.com/TomorrowX6/Komari-Butterfly/releases/download/V1.3.0/komari-butterfly-v1.3.0.zip",
-      "sha256": "62e7e2762d002b100ce1a24f4047102e9bf03d160eba78e54115f742e9f9d482"
+      "download": "https://github.com/TomorrowX6/Komari-Butterfly/releases/download/v1.5.0/komari-butterfly-v1.5.0.zip",
+      "sha256": "e86b4485711912cb4eaebb5ad9cb06c602213b52066899a860729143cd7eeb05"
     },
     {
       "name": {
@@ -123,12 +123,12 @@
       "name": "Gloria Universe",
       "short": "GloriaUniverse",
       "description": "邓紫棋粉丝向 GLORIA 数字宇宙监控主题：星辰节点、星网地图、舞台能量与 I AM GLORIA 彩蛋",
-      "version": "1.5.7",
+      "version": "1.5.8",
       "author": "TonyStarkJr2021",
       "url": "https://github.com/TonyStarkJr2021/komari-theme-Gloria-Universe",
       "preview": "https://raw.githubusercontent.com/TonyStarkJr2021/komari-theme-Gloria-Universe/main/preview.png",
-      "download": "https://github.com/TonyStarkJr2021/komari-theme-Gloria-Universe/releases/download/v1.5.7/komari-theme-Gloria-Universe-v1.5.7-4bf77d1.zip",
-      "sha256": "be36f022e0e5c29a2805fe3fcb04e455f2867dff64dd02cf82b435859d34dd26"
+      "download": "https://github.com/TonyStarkJr2021/komari-theme-Gloria-Universe/releases/download/v1.5.8/komari-theme-Gloria-Universe-v1.5.8-a7291b8.zip",
+      "sha256": "9d5db8016d50c356f371077c6c5b300ae105065aba8c6e377f2d1e6e382c14ff"
     },
     {
       "name": "ServerStatus-Hotaru",
@@ -218,12 +218,12 @@
       "name": "Komari Carbon",
       "short": "komari-theme-carbon",
       "description": "IBM Carbon + IBM Plex style Komari monitoring theme",
-      "version": "0.1.7",
+      "version": "0.1.9",
       "author": "gengyue2468",
       "url": "https://github.com/gengyue2468/komari-theme-carbon",
       "preview": "https://raw.githubusercontent.com/gengyue2468/komari-theme-carbon/master/preview.png",
-      "download": "https://github.com/gengyue2468/komari-theme-carbon/releases/download/v0.1.7/komari-theme-carbon-v0.1.7.zip",
-      "sha256": "1cc643db78a0ea61893c7fed55389b83fe60721b077bafe1f224f3215dbf0f94"
+      "download": "https://github.com/gengyue2468/komari-theme-carbon/releases/download/v0.1.9/komari-theme-carbon-v0.1.9.zip",
+      "sha256": "2fd0652057b36721dfae4834db0c9e118019f86164e7813b0a64a2490e41c80f"
     },
     {
       "name": "Komari Home",
@@ -304,12 +304,12 @@
       "name": "Komari-Theme-LuminaPlus",
       "short": "LuminaPlus",
       "description": "Komari-Theme-LuminaPlus",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "author": "shark&shanyang",
       "url": "https://github.com/shanyang242/Komari-Theme-LuminaPlus",
       "preview": "https://raw.githubusercontent.com/shanyang242/Komari-Theme-LuminaPlus/refs/heads/main/docs/images/v1.1.9/overview-large-card-solid.png",
-      "download": "https://github.com/shanyang242/Komari-Theme-LuminaPlus/releases/download/v1.3.0/Komari-Theme-LuminaPlus-v1.3.0.zip",
-      "sha256": "5c967f7a3b7d5bd7105a4f776341e89543b74bb92455c60902c05114f8f9fba6"
+      "download": "https://github.com/shanyang242/Komari-Theme-LuminaPlus/releases/download/v1.3.1/Komari-Theme-LuminaPlus-v1.3.1.zip",
+      "sha256": "fc342b15235115ea0837352e652cf2ec3d2b3fcdb2945dfe4555f89eed56fe1f"
     },
     {
       "name": "Komari Material",
