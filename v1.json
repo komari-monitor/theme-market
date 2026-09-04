@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-01T21:03:11.312Z",
+  "updated_at": "2026-09-04T09:03:08.822Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -321,6 +321,17 @@
       "preview": "https://image.mikus.ink/uploads/HayasakaAi/2026/07/05/d3eab55445a8.webp",
       "download": "https://github.com/mikus-loli/komari-mikus/releases/download/v2.0.5/komari-mikus-v2.0.5.zip",
       "sha256": "5d40b35e6b39e96c5f4118e58174c776902b0311d28337256b52f00cb458591c"
+    },
+    {
+      "name": "Komari Minecraft",
+      "short": "Minecraft",
+      "description": "支持浅色、深色与 Minecraft 外观的监控面板",
+      "version": "1.1.0",
+      "author": "ShumTin",
+      "url": "https://github.com/ShumTin/komari-minecraft",
+      "preview": "https://raw.githubusercontent.com/ShumTin/komari-minecraft/master/docs/screenshots/mc.png",
+      "download": "https://github.com/ShumTin/komari-minecraft/releases/download/v1.1.0/komari-theme-minecraft-v1.1.0.zip",
+      "sha256": "fc570ac30746a352d30b2ffc20e9dcfb0cd766e4a84523b6c755fd9723a86304"
     },
     {
       "name": "MiStatus Komari",
