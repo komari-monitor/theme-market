@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-04T04:06:44.726Z",
+  "updated_at": "2026-09-04T09:09:14.615Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -343,6 +343,17 @@
       "preview": "https://raw.githubusercontent.com/ShumTin/komari-minecraft/master/docs/screenshots/mc.png",
       "download": "https://github.com/ShumTin/komari-minecraft/releases/download/v1.1.0/komari-theme-minecraft-v1.1.0.zip",
       "sha256": "fc570ac30746a352d30b2ffc20e9dcfb0cd766e4a84523b6c755fd9723a86304"
+    },
+    {
+      "name": "Minimal",
+      "short": "minimal",
+      "description": "单色极简主题，柔和卡片布局，支持网格与表格双视图 / A monochrome minimal theme with soft cards and grid/table views.",
+      "version": "1.0.0",
+      "author": "lizhenmiao",
+      "url": "https://github.com/lizhenmiao/komari-theme-minimal",
+      "preview": "https://raw.githubusercontent.com/lizhenmiao/komari-theme-minimal/master/preview.png",
+      "download": "https://github.com/lizhenmiao/komari-theme-minimal/releases/download/v1.0.0/komari-theme-minimal-1.0.0.zip",
+      "sha256": "7a5245523cf8b86dcd3e6ef3843be48d79d22f8bf7d4dddf0a310134a47c7bb7"
     },
     {
       "name": "MiStatus Komari",
