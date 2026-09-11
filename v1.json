@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-11T07:00:19.613Z",
+  "updated_at": "2026-09-11T07:00:52.255Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -45,6 +45,17 @@
       "preview": "https://raw.githubusercontent.com/facl/komari-ascii/main/preview.png",
       "download": "https://github.com/facl/komari-ascii/releases/download/v1.0/komari-ascii.zip",
       "sha256": "1215c4caf798dba5a0ab50754bb9a9c6c93b55e10ee224fa246ddb0301dae96a"
+    },
+    {
+      "name": "blueprint",
+      "short": "blueprint",
+      "description": "A Blueprint theme for Komari",
+      "version": "0.1.19",
+      "author": "jacob-bytes",
+      "url": "https://github.com/jacob-bytes/komari-theme-blueprint",
+      "preview": "https://raw.githubusercontent.com/jacob-bytes/komari-theme-blueprint/main/docs/preview.png",
+      "download": "https://github.com/jacob-bytes/komari-theme-blueprint/releases/download/v0.1.19/blueprint-build-f4bbf9f.zip",
+      "sha256": "87387d05a217a0a7daf63f44485fe5a93ccfbc5de15e0f150fa2f638f51ad877"
     },
     {
       "name": "Komari Butterfly",
