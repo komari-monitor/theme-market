@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-11T07:00:52.255Z",
+  "updated_at": "2026-09-11T07:02:16.778Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -173,6 +173,17 @@
       "preview": "https://raw.githubusercontent.com/komari-monitor/public/refs/heads/main/images/hotaru-theme.png",
       "download": "https://github.com/komari-monitor/komari-web/releases/download/1.0.3/komari-theme-hotaru.zip",
       "sha256": "b5d86521b2614b2ddd85ec049a80f2e9e739a1de77992fd43a15db049facd5d2"
+    },
+    {
+      "name": "ink",
+      "short": "ink",
+      "description": "A minimal ink theme for Komari (deep navy-black, shadcn-inspired)",
+      "version": "0.6.9",
+      "author": "jacob-bytes",
+      "url": "https://github.com/jacob-bytes/komari-theme-ink",
+      "preview": "https://raw.githubusercontent.com/jacob-bytes/komari-theme-ink/main/docs/preview.png",
+      "download": "https://github.com/jacob-bytes/komari-theme-ink/releases/download/v0.6.9/ink-build-2d80040.zip",
+      "sha256": "8046a5db5e2bf9083d9f3942e59a7478c23e5dcc0d131e8ffefc6a4824dcc311"
     },
     {
       "name": "junimo",
