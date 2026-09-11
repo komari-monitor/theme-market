@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-07T10:28:53.836Z",
+  "updated_at": "2026-09-11T06:59:26.829Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -12,6 +12,17 @@
       "preview": "https://raw.githubusercontent.com/stqfdyr/komari-theme-adhesive-note/main/preview.webp",
       "download": "https://github.com/stqfdyr/komari-theme-adhesive-note/releases/download/v1.0.0/komari-theme-adhesivenote-v1.0.0.zip",
       "sha256": "94f69c657413e7b3204cfea0bce94f1ee5deb1f897364664b27367b592d49c80"
+    },
+    {
+      "name": "爱弥斯 / Aemeath",
+      "short": "aemeath",
+      "description": "基于 Vue 3 的爱弥斯主题监控面板，包含响应式实时状态、平滑过渡与多端适配。",
+      "version": "1.9.0",
+      "author": "Ronana / 夜灭",
+      "url": "https://github.com/adminsama/Aemeath",
+      "preview": "https://gov.yachts/themes/aemeath/preview.png",
+      "download": "https://github.com/adminsama/Aemeath/releases/download/v1.9.0/aemeath-komari-theme-v1.9.0.zip",
+      "sha256": "a9192457a3107f157fa98a2781a3d5e113ebbc2fc0fb8c45a1d49b0f8df655f0"
     },
     {
       "name": "Komari Animal Island",
