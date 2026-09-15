@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-11T07:02:16.778Z",
+  "updated_at": "2026-09-15T04:56:20.375Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -17,12 +17,12 @@
       "name": "爱弥斯 / Aemeath",
       "short": "aemeath",
       "description": "基于 Vue 3 的爱弥斯主题监控面板，包含响应式实时状态、平滑过渡与多端适配。",
-      "version": "1.9.0",
+      "version": "1.9.1",
       "author": "Ronana / 夜灭",
       "url": "https://github.com/adminsama/Aemeath",
       "preview": "https://gov.yachts/themes/aemeath/preview.png",
-      "download": "https://github.com/adminsama/Aemeath/releases/download/v1.9.0/aemeath-komari-theme-v1.9.0.zip",
-      "sha256": "a9192457a3107f157fa98a2781a3d5e113ebbc2fc0fb8c45a1d49b0f8df655f0"
+      "download": "https://github.com/adminsama/Aemeath/releases/download/v1.9.1/aemeath-komari-theme-v1.9.1.zip",
+      "sha256": "142688600ae6876a5a0fe024a2507530b7d05cac627694237ef220a70be38b93"
     },
     {
       "name": "Komari Animal Island",
@@ -178,12 +178,12 @@
       "name": "ink",
       "short": "ink",
       "description": "A minimal ink theme for Komari (deep navy-black, shadcn-inspired)",
-      "version": "0.6.9",
+      "version": "0.6.11",
       "author": "jacob-bytes",
       "url": "https://github.com/jacob-bytes/komari-theme-ink",
       "preview": "https://raw.githubusercontent.com/jacob-bytes/komari-theme-ink/main/docs/preview.png",
-      "download": "https://github.com/jacob-bytes/komari-theme-ink/releases/download/v0.6.9/ink-build-2d80040.zip",
-      "sha256": "8046a5db5e2bf9083d9f3942e59a7478c23e5dcc0d131e8ffefc6a4824dcc311"
+      "download": "https://github.com/jacob-bytes/komari-theme-ink/releases/download/v0.6.11/ink-build-f554e7f.zip",
+      "sha256": "b96c4522ff48de808d5856f542883b1372d227533f1f7fda260eb4f481285a40"
     },
     {
       "name": "junimo",
@@ -337,12 +337,12 @@
       "name": "Komari-Theme-LuminaLite",
       "short": "LuminaLite",
       "description": "Komari-Theme-LuminaLite",
-      "version": "2.7.4",
+      "version": "3.0.0",
       "author": "JohnsonRan",
       "url": "https://github.com/JohnsonRan/Komari-Theme-LuminaLite",
       "preview": "https://github.com/JohnsonRan/Komari-Theme-LuminaLite/raw/main/preview.png",
-      "download": "https://github.com/JohnsonRan/Komari-Theme-LuminaLite/releases/download/v2.7.4/Komari-Theme-LuminaLite-v2.7.4.zip",
-      "sha256": "a5299711900e20e359f8d4a814708a82ea179bbe33acf1f5d8585c227570eccf"
+      "download": "https://github.com/JohnsonRan/Komari-Theme-LuminaLite/releases/download/v3.0.0/Komari-Theme-LuminaLite-v3.0.0.zip",
+      "sha256": "b0fca5c5c579f6570fa6096ef7dc39b6334f30165c9426194f1cda46f2791ab3"
     },
     {
       "name": "Komari-Theme-LuminaPlus",
@@ -524,15 +524,15 @@
         "zh-CN": "暖色纸张与手写风格的编辑式 Komari 主题。",
         "en": "An editorial Komari theme with warm paper, serif type and handwritten accents."
       },
-      "version": "26.09.01",
+      "version": "26.09.14",
       "author": {
         "zh-CN": "wood",
         "en": "wood"
       },
       "url": "https://github.com/woodchen-ink/komari-paper",
       "preview": "https://raw.githubusercontent.com/woodchen-ink/komari-paper/refs/heads/main/preview.png",
-      "download": "https://github.com/woodchen-ink/komari-paper/releases/download/v26.09.01/komari-paper-v26.09.01.zip",
-      "sha256": "9fa04cd70744515b28828402bbe6e84ff106b2f73d052aeb4e94b2f4e2a23840"
+      "download": "https://github.com/woodchen-ink/komari-paper/releases/download/v26.09.14/komari-paper-v26.09.14.zip",
+      "sha256": "b4b33068c61236ebae6d460c113f0a0b6bde53ee802ba34de8ded6527eb7fb2a"
     },
     {
       "name": "Komari Theme PurCarte",
