@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-15T04:56:20.375Z",
+  "updated_at": "2026-09-15T21:22:26.681Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -337,12 +337,12 @@
       "name": "Komari-Theme-LuminaLite",
       "short": "LuminaLite",
       "description": "Komari-Theme-LuminaLite",
-      "version": "3.0.0",
+      "version": "3.0.1",
       "author": "JohnsonRan",
       "url": "https://github.com/JohnsonRan/Komari-Theme-LuminaLite",
       "preview": "https://github.com/JohnsonRan/Komari-Theme-LuminaLite/raw/main/preview.png",
-      "download": "https://github.com/JohnsonRan/Komari-Theme-LuminaLite/releases/download/v3.0.0/Komari-Theme-LuminaLite-v3.0.0.zip",
-      "sha256": "b0fca5c5c579f6570fa6096ef7dc39b6334f30165c9426194f1cda46f2791ab3"
+      "download": "https://github.com/JohnsonRan/Komari-Theme-LuminaLite/releases/download/v3.0.1/Komari-Theme-LuminaLite-v3.0.1.zip",
+      "sha256": "329169a477eb557ed9f7ef2aaa2a1f3d483a75ea49edda51c8ada9226dea4fa7"
     },
     {
       "name": "Komari-Theme-LuminaPlus",
@@ -370,12 +370,12 @@
       "name": "Komari Mikus",
       "short": "Mikus",
       "description": "A modern, elegant Komari monitoring theme with light/dark switching and responsive grid and table views.",
-      "version": "2.0.5",
+      "version": "2.0.6",
       "author": "Miku",
       "url": "https://github.com/mikus-loli/komari-mikus",
       "preview": "https://image.mikus.ink/uploads/HayasakaAi/2026/07/05/d3eab55445a8.webp",
-      "download": "https://github.com/mikus-loli/komari-mikus/releases/download/v2.0.5/komari-mikus-v2.0.5.zip",
-      "sha256": "5d40b35e6b39e96c5f4118e58174c776902b0311d28337256b52f00cb458591c"
+      "download": "https://github.com/mikus-loli/komari-mikus/releases/download/v2.0.6/komari-mikus-v2.0.6.zip",
+      "sha256": "189f29ea9e911655686d8c11b76b47f6363e108469725cfe53a4afaa0098db4f"
     },
     {
       "name": "Komari Minecraft",
