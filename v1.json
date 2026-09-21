@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-17T04:36:49.048Z",
+  "updated_at": "2026-09-21T02:33:51.535Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -151,6 +151,17 @@
       "preview": "https://raw.githubusercontent.com/sanrokamlan-prog/komari-theme-Glassmorphism/refs/heads/main/docs/preview.png",
       "download": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism/releases/download/v3.3.7/komari-theme-Glassmorphism-build-bf83765.zip",
       "sha256": "6f0a2e1bab9e861d4d1d2e65ea54598307938e6c4f8d9616efaf99d2597c7d2f"
+    },
+    {
+      "name": "Komari Glassmorphism Plus",
+      "short": "glassmorphism-plus",
+      "description": "A customized Glassmorphism theme for Komari, based on the original theme by sanrokamlan.",
+      "version": "2.8.2",
+      "author": "VoyagerProbe",
+      "url": "https://github.com/VoyagerProbe/Glassmorphism-Plus",
+      "preview": "https://raw.githubusercontent.com/VoyagerProbe/Glassmorphism-Plus/main/docs/preview.png",
+      "download": "https://github.com/VoyagerProbe/Glassmorphism-Plus/releases/download/v2.8.2/Glassmorphism-Plus-release-2.8.2.zip",
+      "sha256": "622ac4455b2d674886380dda6219b1dc5442703d8a1a24145cb29d20d4363b08"
     },
     {
       "name": "Komari Glassmorphism TS",
