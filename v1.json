@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-26T15:07:46.079Z",
+  "updated_at": "2026-09-26T15:11:41.227Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -156,12 +156,12 @@
       "name": "Emerald Globe Pro",
       "short": "emerald-globe-pro",
       "description": "面向 Komari 的全球探针监控主题，集成资源分析、流量趋势与风险概览",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "author": "Davies_Allen",
       "url": "https://github.com/allen0039/komari-theme-emerald-globe-pro",
       "preview": "https://raw.githubusercontent.com/allen0039/komari-theme-emerald-globe-pro/main/docs/preview.png",
-      "download": "https://github.com/allen0039/komari-theme-emerald-globe-pro/releases/download/v1.0.8/komari-theme-emerald-globe-pro-build-4ff6b13.zip",
-      "sha256": "8c9b00f5a2a74bdfa93148a373711635cbc8e12015b903bd952051d94e4a6d40"
+      "download": "https://github.com/allen0039/komari-theme-emerald-globe-pro/releases/download/v1.0.9/komari-theme-emerald-globe-pro-build-87e606e.zip",
+      "sha256": "c911d379e7b810b7fffccf6cf38a188de6844d4c7afef3a735203f2e367d330a"
     },
     {
       "name": "Komari Glass",
@@ -189,12 +189,12 @@
       "name": "Komari Glassmorphism Plus",
       "short": "glassmorphism-plus",
       "description": "A customized Glassmorphism theme for Komari, based on the original theme by sanrokamlan.",
-      "version": "2.8.3",
+      "version": "2.8.4",
       "author": "VoyagerProbe",
       "url": "https://github.com/VoyagerProbe/Glassmorphism-Plus",
       "preview": "https://raw.githubusercontent.com/VoyagerProbe/Glassmorphism-Plus/main/docs/preview.png",
-      "download": "https://github.com/VoyagerProbe/Glassmorphism-Plus/releases/download/v2.8.3/Glassmorphism-Plus-release-2.8.3.zip",
-      "sha256": "5f2395ef9dad6aa4280d951d60692200f712cf16eec9485c4f4b684f5d03541b"
+      "download": "https://github.com/VoyagerProbe/Glassmorphism-Plus/releases/download/v2.8.4/Glassmorphism-Plus-release-2.8.4.zip",
+      "sha256": "b044eefcd5df9124cdbb40061a9fab704c172142ac88df7cbf5d22930ba9c6a1"
     },
     {
       "name": "Komari Glassmorphism TS",
@@ -233,12 +233,12 @@
       "name": "ink",
       "short": "ink",
       "description": "A minimal ink theme for Komari (deep navy-black, shadcn-inspired)",
-      "version": "0.6.11",
+      "version": "0.6.14",
       "author": "jacob-bytes",
       "url": "https://github.com/jacob-bytes/komari-theme-ink",
       "preview": "https://raw.githubusercontent.com/jacob-bytes/komari-theme-ink/main/docs/preview.png",
-      "download": "https://github.com/jacob-bytes/komari-theme-ink/releases/download/v0.6.11/ink-build-f554e7f.zip",
-      "sha256": "b96c4522ff48de808d5856f542883b1372d227533f1f7fda260eb4f481285a40"
+      "download": "https://github.com/jacob-bytes/komari-theme-ink/releases/download/v0.6.14/ink-build-a706123.zip",
+      "sha256": "9703c7d84a5501b0731affad1e9babc608ea4b20a15e54dcecbd8ece11c85ebd"
     },
     {
       "name": "junimo",
@@ -403,12 +403,12 @@
       "name": "Komari-Theme-LuminaPlus",
       "short": "LuminaPlus",
       "description": "Komari-Theme-LuminaPlus",
-      "version": "1.3.4",
+      "version": "1.3.5",
       "author": "shark&shanyang",
       "url": "https://github.com/shanyang242/Komari-Theme-LuminaPlus",
       "preview": "https://raw.githubusercontent.com/shanyang242/Komari-Theme-LuminaPlus/refs/heads/main/docs/images/v1.1.9/overview-large-card-solid.png",
-      "download": "https://github.com/shanyang242/Komari-Theme-LuminaPlus/releases/download/v1.3.4/Komari-Theme-LuminaPlus-v1.3.4.zip",
-      "sha256": "38f1c2396f8df53047e3dd50317ca2d6f1d2f9698cf5f03d00300c610a216512"
+      "download": "https://github.com/shanyang242/Komari-Theme-LuminaPlus/releases/download/v1.3.5/Komari-Theme-LuminaPlus-v1.3.5.zip",
+      "sha256": "104225fb3f4b7a926aa75152b9fdf183251691546c90c80b6108d7f4518a0be3"
     },
     {
       "name": "Komari Material",
