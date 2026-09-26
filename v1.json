@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-26T00:24:35.036Z",
+  "updated_at": "2026-09-26T15:05:59.513Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -67,6 +67,17 @@
       "preview": "https://raw.githubusercontent.com/jacob-bytes/komari-theme-blueprint/main/docs/preview.png",
       "download": "https://github.com/jacob-bytes/komari-theme-blueprint/releases/download/v0.1.19/blueprint-build-f4bbf9f.zip",
       "sha256": "87387d05a217a0a7daf63f44485fe5a93ccfbc5de15e0f150fa2f638f51ad877"
+    },
+    {
+      "name": "btop++ 极客终端",
+      "short": "btop-terminal",
+      "description": "真实还原 Linux 顶级终端监控工具 btop++ 的硬核字符与色块风格，高刷新率、多节点聚合看板与终端沉浸体验",
+      "version": "1.0.3",
+      "author": "wildalley",
+      "url": "https://github.com/wildalley/komari-theme-btop",
+      "preview": "https://raw.githubusercontent.com/wildalley/komari-theme-btop/main/preview.png",
+      "download": "https://github.com/wildalley/komari-theme-btop/releases/download/v1.0.3/btop-terminal.zip",
+      "sha256": "81344fc9c58e7e69d0bcda4a84b8e30f705c931719d0c9843f30cc47fed73344"
     },
     {
       "name": "Komari Butterfly",
