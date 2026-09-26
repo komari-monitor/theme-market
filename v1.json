@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-26T15:05:59.513Z",
+  "updated_at": "2026-09-26T15:07:46.079Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -67,6 +67,17 @@
       "preview": "https://raw.githubusercontent.com/jacob-bytes/komari-theme-blueprint/main/docs/preview.png",
       "download": "https://github.com/jacob-bytes/komari-theme-blueprint/releases/download/v0.1.19/blueprint-build-f4bbf9f.zip",
       "sha256": "87387d05a217a0a7daf63f44485fe5a93ccfbc5de15e0f150fa2f638f51ad877"
+    },
+    {
+      "name": "Bocchi",
+      "short": "Bocchi",
+      "description": "波奇酱粉丝向 Komari 监控主题：粉色玻璃卡片、明暗与手机桌面四套背景、日语曲名标签",
+      "version": "1.0.0",
+      "author": "jujiunofly",
+      "url": "https://github.com/jujiunofly/komari-theme-Bocchi",
+      "preview": "https://raw.githubusercontent.com/jujiunofly/komari-theme-Bocchi/main/preview.png",
+      "download": "https://github.com/jujiunofly/komari-theme-Bocchi/releases/download/v1.0.0/komari-theme-Bocchi-v1.0.0-1009660.zip",
+      "sha256": "a0d1a576a7a728480e5fc4ff50015958f40ef88052e992297883cfdab19f2224"
     },
     {
       "name": "btop++ 极客终端",
