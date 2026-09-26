@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-23T04:46:58.980Z",
+  "updated_at": "2026-09-26T00:24:35.036Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -23,6 +23,17 @@
       "preview": "https://gov.yachts/themes/aemeath/preview.png",
       "download": "https://github.com/adminsama/Aemeath/releases/download/v1.9.1/aemeath-komari-theme-v1.9.1.zip",
       "sha256": "142688600ae6876a5a0fe024a2507530b7d05cac627694237ef220a70be38b93"
+    },
+    {
+      "name": "Aero · 晴空",
+      "short": "aero",
+      "description": "Apple 风格浅色监控主题，含动态地球、实时双向流量趋势、完整服务器详情、多指标历史和线路质量。适配 Komari 1.5.1。",
+      "version": "1.4.1",
+      "author": "Shell (biliblihuorong)",
+      "url": "https://github.com/biliblihuorong/komari-theme-aero",
+      "preview": "https://raw.githubusercontent.com/biliblihuorong/komari-theme-aero/v1.4.1/preview.png",
+      "download": "https://github.com/biliblihuorong/komari-theme-aero/releases/download/v1.4.1/aero.zip",
+      "sha256": "3c65bfec7c0577860afd029762e5f286981ab75f32ecadcf31d25e60c9e3138e"
     },
     {
       "name": "Komari Animal Island",
