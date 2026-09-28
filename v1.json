@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-26T15:11:41.227Z",
+  "updated_at": "2026-09-27T21:21:55.503Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -28,12 +28,12 @@
       "name": "Aero · 晴空",
       "short": "aero",
       "description": "Apple 风格浅色监控主题，含动态地球、实时双向流量趋势、完整服务器详情、多指标历史和线路质量。适配 Komari 1.5.1。",
-      "version": "1.4.1",
+      "version": "1.4.5",
       "author": "Shell (biliblihuorong)",
       "url": "https://github.com/biliblihuorong/komari-theme-aero",
       "preview": "https://raw.githubusercontent.com/biliblihuorong/komari-theme-aero/v1.4.1/preview.png",
-      "download": "https://github.com/biliblihuorong/komari-theme-aero/releases/download/v1.4.1/aero.zip",
-      "sha256": "3c65bfec7c0577860afd029762e5f286981ab75f32ecadcf31d25e60c9e3138e"
+      "download": "https://github.com/biliblihuorong/komari-theme-aero/releases/download/v1.4.5/aero.zip",
+      "sha256": "fd27cf3e0dae2bad8d58a31a3ed303a101816cc43626a7b9a0a1c6fb19758233"
     },
     {
       "name": "Komari Animal Island",
@@ -156,12 +156,12 @@
       "name": "Emerald Globe Pro",
       "short": "emerald-globe-pro",
       "description": "面向 Komari 的全球探针监控主题，集成资源分析、流量趋势与风险概览",
-      "version": "1.0.9",
+      "version": "1.0.11",
       "author": "Davies_Allen",
       "url": "https://github.com/allen0039/komari-theme-emerald-globe-pro",
       "preview": "https://raw.githubusercontent.com/allen0039/komari-theme-emerald-globe-pro/main/docs/preview.png",
-      "download": "https://github.com/allen0039/komari-theme-emerald-globe-pro/releases/download/v1.0.9/komari-theme-emerald-globe-pro-build-87e606e.zip",
-      "sha256": "c911d379e7b810b7fffccf6cf38a188de6844d4c7afef3a735203f2e367d330a"
+      "download": "https://github.com/allen0039/komari-theme-emerald-globe-pro/releases/download/v1.0.11/komari-theme-emerald-globe-pro-build-4f2cf49.zip",
+      "sha256": "fb0238104539c74813901ada832e43fdc254e6fce46f201787d1c205d31e2dd3"
     },
     {
       "name": "Komari Glass",
@@ -317,12 +317,12 @@
       "name": "Komari Carbon",
       "short": "komari-theme-carbon",
       "description": "IBM Carbon + IBM Plex style Komari monitoring theme",
-      "version": "0.1.9-enhance1",
+      "version": "0.2.0",
       "author": "gengyue2468",
       "url": "https://github.com/gengyue2468/komari-theme-carbon",
       "preview": "https://raw.githubusercontent.com/gengyue2468/komari-theme-carbon/master/preview.png",
-      "download": "https://github.com/gengyue2468/komari-theme-carbon/releases/download/v0.1.9-enhance1/komari-theme-carbon-v0.1.9-enhance1.zip",
-      "sha256": "85793f76481e775eb1c2bd59b0260f716e452fa9dc7686719b129c9d7dec9c8e"
+      "download": "https://github.com/gengyue2468/komari-theme-carbon/releases/download/v0.2.0/komari-theme-carbon-v0.2.0.zip",
+      "sha256": "b78909a8f85367dabe080fadf04660356bf394ab8d03d4f6af56e1db21547bdc"
     },
     {
       "name": "Komari Home",
