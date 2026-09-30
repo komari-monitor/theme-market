@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-29T22:16:48.907Z",
+  "updated_at": "2026-09-30T07:58:10.738Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -34,6 +34,17 @@
       "preview": "https://raw.githubusercontent.com/biliblihuorong/komari-theme-aero/v1.4.1/preview.png",
       "download": "https://github.com/biliblihuorong/komari-theme-aero/releases/download/v1.4.5/aero.zip",
       "sha256": "fd27cf3e0dae2bad8d58a31a3ed303a101816cc43626a7b9a0a1c6fb19758233"
+    },
+    {
+      "name": "Komari Mercedes-AMG",
+      "short": "amg-race-control",
+      "description": "Mercedes-AMG PETRONAS F1 Race Control 风格的 Komari 监控主题 / Mercedes-AMG PETRONAS F1 Race Control theme for Komari Monitor",
+      "version": "1.0.1",
+      "author": "Jett Hayes",
+      "url": "https://github.com/JettHayes/Komari-Mercedes-AMG",
+      "preview": "https://raw.githubusercontent.com/JettHayes/Komari-Mercedes-AMG/main/public/assets/example1l.png",
+      "download": "https://github.com/JettHayes/Komari-Mercedes-AMG/releases/download/v1.0.0/Komari-Mercedes-AMG-theme.zip",
+      "sha256": "33ce41eda93366adb0bdf5fecb61cbf2a37b25aa48ccc23104e5c21f71878291"
     },
     {
       "name": "Komari Animal Island",
