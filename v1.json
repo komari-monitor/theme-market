@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-27T21:21:55.503Z",
+  "updated_at": "2026-09-29T22:16:48.907Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -392,12 +392,12 @@
       "name": "Komari-Theme-LuminaLite",
       "short": "LuminaLite",
       "description": "Komari-Theme-LuminaLite",
-      "version": "3.0.1",
+      "version": "3.0.2",
       "author": "JohnsonRan",
       "url": "https://github.com/JohnsonRan/Komari-Theme-LuminaLite",
       "preview": "https://github.com/JohnsonRan/Komari-Theme-LuminaLite/raw/main/preview.png",
-      "download": "https://github.com/JohnsonRan/Komari-Theme-LuminaLite/releases/download/v3.0.1/Komari-Theme-LuminaLite-v3.0.1.zip",
-      "sha256": "329169a477eb557ed9f7ef2aaa2a1f3d483a75ea49edda51c8ada9226dea4fa7"
+      "download": "https://github.com/JohnsonRan/Komari-Theme-LuminaLite/releases/download/v3.0.2/Komari-Theme-LuminaLite-v3.0.2.zip",
+      "sha256": "b3f42d338efd0fdd4dec8fdf7be1295bd5022c3a16efee5670d4285c55c38840"
     },
     {
       "name": "Komari-Theme-LuminaPlus",
