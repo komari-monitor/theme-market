@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-29T22:16:48.907Z",
+  "updated_at": "2026-10-01T19:46:58.224Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -639,6 +639,17 @@
       "preview": "https://raw.githubusercontent.com/saladinxp/komari-ran-theme/refs/heads/main/preview.png",
       "download": "https://github.com/saladinxp/komari-ran-theme/releases/download/v2.1.2/komari-ran-theme-v2.1.2.zip",
       "sha256": "4ea93085644626a5208fcd66204aab7c9da6f910214881b903825f91cd760791"
+    },
+    {
+      "name": "Komari-Theme-SAO",
+      "short": "SAO",
+      "description": "Komari Theme SAO Edition",
+      "version": "1.0.10",
+      "author": "WAOR",
+      "url": "https://github.com/WAOR/Komari-Theme-SAO",
+      "preview": "https://raw.githubusercontent.com/WAOR/Komari-Theme-SAO/main/preview.png",
+      "download": "https://github.com/WAOR/Komari-Theme-SAO/releases/download/v1.0.10/Komari-Theme-SAO-v1.0.10.zip",
+      "sha256": "5883a0f1a73e52c115d7bb0be535c2d7b90fa4a101c1720f1bbbbb78b9d481c8"
     },
     {
       "name": "ServerSentry Komari",
