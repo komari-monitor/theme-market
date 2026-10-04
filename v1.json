@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-04T14:08:26.988Z",
+  "updated_at": "2026-10-04T14:09:29.619Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -167,12 +167,12 @@
       "name": "Emerald Globe Pro",
       "short": "emerald-globe-pro",
       "description": "面向 Komari 的全球探针监控主题，集成资源分析、流量趋势与风险概览",
-      "version": "1.0.11",
+      "version": "1.0.13",
       "author": "Davies_Allen",
       "url": "https://github.com/allen0039/komari-theme-emerald-globe-pro",
       "preview": "https://raw.githubusercontent.com/allen0039/komari-theme-emerald-globe-pro/main/docs/preview.png",
-      "download": "https://github.com/allen0039/komari-theme-emerald-globe-pro/releases/download/v1.0.11/komari-theme-emerald-globe-pro-build-4f2cf49.zip",
-      "sha256": "fb0238104539c74813901ada832e43fdc254e6fce46f201787d1c205d31e2dd3"
+      "download": "https://github.com/allen0039/komari-theme-emerald-globe-pro/releases/download/v1.0.13/komari-theme-emerald-globe-pro-build-b69e39c.zip",
+      "sha256": "3554ee3e1af05bd04726dea8b9554ed645e98391f163b2e031002787f30c6330"
     },
     {
       "name": "Komari Glass",
