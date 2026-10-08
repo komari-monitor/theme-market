@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-04T14:09:29.619Z",
+  "updated_at": "2026-10-07T23:06:24.644Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -122,15 +122,15 @@
         "zh-CN": "赛博朋克命令终端主题，带 3D 地球与 HUD 风格节点卡片。",
         "en": "A cyberpunk command terminal theme with an interactive 3D globe and HUD-style node cards."
       },
-      "version": "1.5.5",
+      "version": "1.5.6",
       "author": {
         "zh-CN": "WayJam",
         "en": "WayJam"
       },
       "url": "https://github.com/wayjam/komari-theme-commander",
       "preview": "https://raw.githubusercontent.com/wayjam/komari-theme-commander/refs/heads/main/preview.png",
-      "download": "https://github.com/wayjam/komari-theme-commander/releases/download/v1.5.5/komari-theme-commander%401.5.5.zip",
-      "sha256": "66f4520b1ec26533134c2674d4136ee24ab0b7be49248b1e64ed47873ae6d1ca"
+      "download": "https://github.com/wayjam/komari-theme-commander/releases/download/v1.5.6/komari-theme-commander%401.5.6.zip",
+      "sha256": "a851ab842a69f0859f561773c261222795c0fb831126e9082165c1b85d07be8a"
     },
     {
       "name": {
@@ -655,12 +655,12 @@
       "name": "Komari-Theme-SAO",
       "short": "SAO",
       "description": "Komari Theme SAO Edition",
-      "version": "1.0.10",
+      "version": "1.1.4",
       "author": "WAOR",
       "url": "https://github.com/WAOR/Komari-Theme-SAO",
       "preview": "https://raw.githubusercontent.com/WAOR/Komari-Theme-SAO/main/preview.png",
-      "download": "https://github.com/WAOR/Komari-Theme-SAO/releases/download/v1.0.10/Komari-Theme-SAO-v1.0.10.zip",
-      "sha256": "5883a0f1a73e52c115d7bb0be535c2d7b90fa4a101c1720f1bbbbb78b9d481c8"
+      "download": "https://github.com/WAOR/Komari-Theme-SAO/releases/download/v1.1.4/Komari-Theme-SAO-v1.1.4.zip",
+      "sha256": "36088fa74b4f31fcfa86fba98bcdaef39ab87013999cbbe57e736888b0bb63f1"
     },
     {
       "name": "ServerSentry Komari",
