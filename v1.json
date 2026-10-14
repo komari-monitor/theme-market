@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-14T09:27:24.420Z",
+  "updated_at": "2026-10-14T09:30:10.483Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -672,6 +672,17 @@
       "preview": "https://raw.githubusercontent.com/saladinxp/komari-ran-theme/refs/heads/main/preview.png",
       "download": "https://github.com/saladinxp/komari-ran-theme/releases/download/v2.1.2/komari-ran-theme-v2.1.2.zip",
       "sha256": "4ea93085644626a5208fcd66204aab7c9da6f910214881b903825f91cd760791"
+    },
+    {
+      "name": "蕾塞 · 花田守望 / Reze · Golden Hour",
+      "short": "Reze",
+      "description": "蕾塞花田主题：暖金与墨绿玻璃、实时监控、历史图表、服务器对比和轻量角色陪伴。",
+      "version": "1.2.2",
+      "author": "Reze Theme Contributors",
+      "url": "https://github.com/vioIetMiku/komari-theme-reze",
+      "preview": "https://raw.githubusercontent.com/vioIetMiku/komari-theme-reze/main/preview.png",
+      "download": "https://github.com/vioIetMiku/komari-theme-reze/releases/download/v1.2.2/komari-theme-Reze-v1.2.2.zip",
+      "sha256": "992e48439c596db04e98f2169f17d46ff0d86543555a5cd693e1433860e701f3"
     },
     {
       "name": "Komari-Theme-SAO",
