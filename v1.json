@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-14T09:26:26.484Z",
+  "updated_at": "2026-10-14T09:27:24.420Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -200,12 +200,12 @@
       "name": "Komari Glassmorphism",
       "short": "Glassmorphism",
       "description": "A Glassmorphism theme for Komari",
-      "version": "3.3.7",
+      "version": "3.4.1",
       "author": "sanrokamlan",
       "url": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism",
       "preview": "https://raw.githubusercontent.com/sanrokamlan-prog/komari-theme-Glassmorphism/refs/heads/main/docs/preview.png",
-      "download": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism/releases/download/v3.3.7/komari-theme-Glassmorphism-build-bf83765.zip",
-      "sha256": "6f0a2e1bab9e861d4d1d2e65ea54598307938e6c4f8d9616efaf99d2597c7d2f"
+      "download": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism/releases/download/v3.4.1/komari-theme-Glassmorphism-build-0b1d9b7.zip",
+      "sha256": "bf2ceb4afce12d2bdfb615221e4dcff4bf23bc15649a719c972ee41184836e75"
     },
     {
       "name": "Komari Glassmorphism Plus",
@@ -425,12 +425,12 @@
       "name": "Komari-Theme-LuminaPlus",
       "short": "LuminaPlus",
       "description": "Komari-Theme-LuminaPlus",
-      "version": "1.3.5",
+      "version": "1.3.6",
       "author": "shark&shanyang",
       "url": "https://github.com/shanyang242/Komari-Theme-LuminaPlus",
       "preview": "https://raw.githubusercontent.com/shanyang242/Komari-Theme-LuminaPlus/refs/heads/main/docs/images/v1.1.9/overview-large-card-solid.png",
-      "download": "https://github.com/shanyang242/Komari-Theme-LuminaPlus/releases/download/v1.3.5/Komari-Theme-LuminaPlus-v1.3.5.zip",
-      "sha256": "104225fb3f4b7a926aa75152b9fdf183251691546c90c80b6108d7f4518a0be3"
+      "download": "https://github.com/shanyang242/Komari-Theme-LuminaPlus/releases/download/v1.3.6/Komari-Theme-LuminaPlus-v1.3.6.zip",
+      "sha256": "07deac75bcaef949fb136259b37ace0ed16b83103872577d2d65d81ab3fc3013"
     },
     {
       "name": "Komari Material",
@@ -480,12 +480,12 @@
       "name": "Minimal",
       "short": "minimal",
       "description": "单色极简主题，柔和卡片布局，支持网格与表格双视图 / A monochrome minimal theme with soft cards and grid/table views.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "lizhenmiao",
       "url": "https://github.com/lizhenmiao/komari-theme-minimal",
       "preview": "https://raw.githubusercontent.com/lizhenmiao/komari-theme-minimal/master/preview.png",
-      "download": "https://github.com/lizhenmiao/komari-theme-minimal/releases/download/v1.0.0/komari-theme-minimal-1.0.0.zip",
-      "sha256": "7a5245523cf8b86dcd3e6ef3843be48d79d22f8bf7d4dddf0a310134a47c7bb7"
+      "download": "https://github.com/lizhenmiao/komari-theme-minimal/releases/download/v1.0.1/komari-theme-minimal-1.0.1.zip",
+      "sha256": "8914ca86b20ab4f975008aaa46990055cb50b92ee96d89f3742b3b17709f3773"
     },
     {
       "name": "MiStatus Komari",
@@ -677,12 +677,12 @@
       "name": "Komari-Theme-SAO",
       "short": "SAO",
       "description": "Komari Theme SAO Edition",
-      "version": "1.1.4",
+      "version": "1.2.1",
       "author": "WAOR",
       "url": "https://github.com/WAOR/Komari-Theme-SAO",
       "preview": "https://raw.githubusercontent.com/WAOR/Komari-Theme-SAO/main/preview.png",
-      "download": "https://github.com/WAOR/Komari-Theme-SAO/releases/download/v1.1.4/Komari-Theme-SAO-v1.1.4.zip",
-      "sha256": "36088fa74b4f31fcfa86fba98bcdaef39ab87013999cbbe57e736888b0bb63f1"
+      "download": "https://github.com/WAOR/Komari-Theme-SAO/releases/download/v1.2.1/Komari-Theme-SAO-v1.2.1.zip",
+      "sha256": "aab1cebde200aadf70efc680177955ca82ef15bd8d1c0b5eb6960b975d3ab8b4"
     },
     {
       "name": "ServerSentry Komari",
