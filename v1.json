@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-07T23:06:24.644Z",
+  "updated_at": "2026-10-11T09:51:32.845Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -431,6 +431,17 @@
       "preview": "https://raw.githubusercontent.com/Liebesfreud/Komari-Material/main/docs/preview.png",
       "download": "https://github.com/Liebesfreud/Komari-Material/releases/download/release-v1.4.1/komari-theme-material-build-57e7aee.zip",
       "sha256": "94095b443924c739a379e146335a64987167b303fd7197eba689a208e4a5bddd"
+    },
+    {
+      "name": "初音未来 · Miku39",
+      "short": "miku39",
+      "description": "支持本地图片或链接自定义背景，服务器显示尺寸有极简、紧凑、标准、放大四档；高清地球与自定义标记名称，完整资源历史、流量、价格和到期信息。",
+      "version": "1.4.5",
+      "author": "Miku39",
+      "url": "https://github.com/vioIetMiku/komari-theme-miku39",
+      "preview": "https://github.com/vioIetMiku/komari-theme-miku39/raw/main/dist/assets/daydream.webp",
+      "download": "https://github.com/vioIetMiku/komari-theme-miku39/releases/download/v1.4.5/komari-theme-miku39-v1.4.5.zip",
+      "sha256": "27c5122b14de2a07da70d13936bf5d72ad525315a4c04ec808b1680b0736579b"
     },
     {
       "name": "Komari Mikus",
