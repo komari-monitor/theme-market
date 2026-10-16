@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-14T19:38:14.743Z",
+  "updated_at": "2026-10-16T00:43:27.160Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -200,12 +200,12 @@
       "name": "Komari Glassmorphism",
       "short": "Glassmorphism",
       "description": "A Glassmorphism theme for Komari",
-      "version": "3.4.1",
+      "version": "3.4.2",
       "author": "sanrokamlan",
       "url": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism",
       "preview": "https://raw.githubusercontent.com/sanrokamlan-prog/komari-theme-Glassmorphism/refs/heads/main/docs/preview.png",
-      "download": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism/releases/download/v3.4.1/komari-theme-Glassmorphism-build-0b1d9b7.zip",
-      "sha256": "bf2ceb4afce12d2bdfb615221e4dcff4bf23bc15649a719c972ee41184836e75"
+      "download": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism/releases/download/v3.4.2/komari-theme-Glassmorphism-build-69878cb.zip",
+      "sha256": "dfafaf3f8d24e5d9e52bf71db2ba7c44fa74e9ab87e2ef767721a9f760b4cb8d"
     },
     {
       "name": "Komari Glassmorphism Plus",
