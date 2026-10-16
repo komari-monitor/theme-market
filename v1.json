@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-14T09:30:10.483Z",
+  "updated_at": "2026-10-14T19:38:14.743Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -239,6 +239,17 @@
       "preview": "https://raw.githubusercontent.com/TonyStarkJr2021/komari-theme-Gloria-Universe/main/preview.png",
       "download": "https://github.com/TonyStarkJr2021/komari-theme-Gloria-Universe/releases/download/v1.5.8/komari-theme-Gloria-Universe-v1.5.8-a7291b8.zip",
       "sha256": "9d5db8016d50c356f371077c6c5b300ae105065aba8c6e377f2d1e6e382c14ff"
+    },
+    {
+      "name": "Horizon",
+      "short": "horizon",
+      "description": "高密度控制台风格的 Komari 主题：集群总览、节点卡片、流量周期与校准、延迟探针与丢包率、历史图表，中英双语，自定义字体与背景。A dense console-style Komari theme with cluster overview, node cards, traffic cycles, latency probes and packet loss, history charts, zh/en UI.",
+      "version": "1.9.4",
+      "author": "Dowsion",
+      "url": "https://github.com/Dowsion-dev/Komari-Theme-Horizon",
+      "preview": "https://raw.githubusercontent.com/Dowsion-dev/Komari-Theme-Horizon/main/preview.png",
+      "download": "https://github.com/Dowsion-dev/Komari-Theme-Horizon/releases/download/v1.9.4/Komari-Theme-Horizon-v1.9.4.zip",
+      "sha256": "6787b8bb8bc99daac04e94dcddc566ec447372924d36b5bfa54ba11e00cdfa4a"
     },
     {
       "name": "ServerStatus-Hotaru",
