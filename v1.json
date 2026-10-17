@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-16T00:43:27.160Z",
+  "updated_at": "2026-10-17T15:36:57.505Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -383,12 +383,12 @@
       "name": "Komari Observatory",
       "short": "LeoNetLab",
       "description": "A soft, responsive observatory theme for Komari with live telemetry, globe and Ping analytics.",
-      "version": "1.4.3-fix3",
+      "version": "1.6.0",
       "author": "LeoNetLab",
       "url": "https://github.com/LeonR-92/komari-theme-leonetlab",
       "preview": "https://raw.githubusercontent.com/LeonR-92/komari-theme-leonetlab/main/docs/preview.png",
-      "download": "https://github.com/LeonR-92/komari-theme-leonetlab/releases/download/v1.4.3-fix3/komari-theme-leonetlab-build-v1.4.3-fix3.zip",
-      "sha256": "a1b5195bc604be1423df237fb9b285fbb90a26ffe13c469c733123b5280af85d"
+      "download": "https://github.com/LeonR-92/komari-theme-leonetlab/releases/download/v1.6.0/komari-theme-leonetlab-build-v1.6.0.zip",
+      "sha256": "384707c2f5b210f62b418ad01574f72a89b5cf2aba9abd3feadafc0d67dcb6f7"
     },
     {
       "name": "Komari Theme Light",
