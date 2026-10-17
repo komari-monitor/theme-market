@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-16T00:43:27.160Z",
+  "updated_at": "2026-10-17T05:53:47.278Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -184,6 +184,17 @@
       "preview": "https://raw.githubusercontent.com/allen0039/komari-theme-emerald-globe-pro/main/docs/preview.png",
       "download": "https://github.com/allen0039/komari-theme-emerald-globe-pro/releases/download/v1.0.13/komari-theme-emerald-globe-pro-build-b69e39c.zip",
       "sha256": "3554ee3e1af05bd04726dea8b9554ed645e98391f163b2e031002787f30c6330"
+    },
+    {
+      "name": "Komari Emerald Insights · 翡翠洞察",
+      "short": "emerald-insights",
+      "description": "现代翡翠风格全功能监控主题：集成资源概览大盘、30天在线率、IP质量与流媒体/AI解锁一览（支持查看详细评分与能力）、流量重置趋势以及节点成本与续费分析。 / Modern emerald theme featuring Resource Insights, 30-day availability, IP quality & streaming unlock overview, traffic reset trends, and VPS cost/renewal analytics.",
+      "version": "2.0.3",
+      "author": "Chen017",
+      "url": "https://github.com/Chen017/komari-theme-emerald-insights",
+      "preview": "https://raw.githubusercontent.com/Chen017/komari-theme-emerald-insights/master/preview.png",
+      "download": "https://github.com/Chen017/komari-theme-emerald-insights/releases/download/v2.0.3/komari-theme-emerald-insights.zip",
+      "sha256": "db3a75ce62ea37b332a76102431e0b33157120a48a0e8d6244ba91a1983fbe91"
     },
     {
       "name": "Komari Glass",
