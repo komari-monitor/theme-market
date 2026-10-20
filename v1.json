@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-20T02:05:32.369Z",
+  "updated_at": "2026-10-20T02:09:31.011Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -405,12 +405,12 @@
       "name": "Komari Observatory",
       "short": "LeoNetLab",
       "description": "A soft, responsive observatory theme for Komari with live telemetry, globe and Ping analytics.",
-      "version": "1.4.3-fix3",
+      "version": "1.6.0",
       "author": "LeoNetLab",
       "url": "https://github.com/LeonR-92/komari-theme-leonetlab",
       "preview": "https://raw.githubusercontent.com/LeonR-92/komari-theme-leonetlab/main/docs/preview.png",
-      "download": "https://github.com/LeonR-92/komari-theme-leonetlab/releases/download/v1.4.3-fix3/komari-theme-leonetlab-build-v1.4.3-fix3.zip",
-      "sha256": "a1b5195bc604be1423df237fb9b285fbb90a26ffe13c469c733123b5280af85d"
+      "download": "https://github.com/LeonR-92/komari-theme-leonetlab/releases/download/v1.6.0/komari-theme-leonetlab-build-v1.6.0.zip",
+      "sha256": "384707c2f5b210f62b418ad01574f72a89b5cf2aba9abd3feadafc0d67dcb6f7"
     },
     {
       "name": "Komari Theme Light",
@@ -577,12 +577,12 @@
       "name": "Komari Next",
       "short": "next",
       "description": "Next.js theme for Komari Monitor with multiple layouts, color schemes and status views.",
-      "version": "1.4.19",
+      "version": "1.4.20",
       "author": "tonyliuzj",
       "url": "https://github.com/tonyliuzj/komari-next",
       "preview": "https://github.com/tonyliuzj/komari-next/raw/main/images/dark-theme.png",
-      "download": "https://github.com/tonyliuzj/komari-next/releases/download/1.4.19/dist-release.zip",
-      "sha256": "94c9fff9830266013ef2cbd02fe02a4773d3a88606f3b28b627a77b2ce3a11ae"
+      "download": "https://github.com/tonyliuzj/komari-next/releases/download/1.4.20/dist-release.zip",
+      "sha256": "6f9eaad8484d3d2b963ca37ee0d569566f132fa7199a4c3d8781db2296b07492"
     },
     {
       "name": "Nezha",
