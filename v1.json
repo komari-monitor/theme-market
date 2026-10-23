@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-23T04:52:03.605Z",
+  "updated_at": "2026-10-23T15:51:35.027Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -634,6 +634,17 @@
       "preview": "https://raw.githubusercontent.com/zleywb/nezha-minimal/refs/heads/main/preview.png",
       "download": "https://github.com/zleywb/nezha-minimal/releases/download/V1.1.20/nezha-minimal.zip",
       "sha256": "1d8193d03f67e147abe2a4fc161dacb22499ed8db76e93ec7fdd54f2dabde8c2"
+    },
+    {
+      "name": "Omarchy",
+      "short": "omarchy",
+      "description": "Omarchy-style terminal UI: ASCII banner effects, btop-like meters and graphs. / Omarchy 风格终端界面：ASCII 横幅动画、btop 风格的仪表与曲线。",
+      "version": "1.0.1",
+      "author": "with5",
+      "url": "https://github.com/with5/komari-theme-omarchy",
+      "preview": "https://raw.githubusercontent.com/with5/komari-theme-omarchy/main/preview.png",
+      "download": "https://github.com/with5/komari-theme-omarchy/releases/download/v1.0.1/omarchy.zip",
+      "sha256": "69a05f123e01e717251dd0b1ee5c537f2193173639d104b5e34ab45d24097a2c"
     },
     {
       "name": {
