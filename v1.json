@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-20T02:09:31.011Z",
+  "updated_at": "2026-10-23T04:52:03.605Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -94,12 +94,12 @@
       "name": "Btop Minimal",
       "short": "btop-minimal",
       "description": "A minimal btop-inspired Komari monitor theme.",
-      "version": "1.5.4",
+      "version": "1.6.4",
       "author": "Tao",
       "url": "https://github.com/yt1988/komari-btop-minimal",
       "preview": "https://raw.githubusercontent.com/yt1988/komari-btop-minimal/master/preview.png",
-      "download": "https://github.com/yt1988/komari-btop-minimal/releases/download/v1.5.4/komari-btop-minimal.zip",
-      "sha256": "329537f8adeacf28fa7b9cdaf83cca5e516878fa56531986bdb192c1e3111fa0"
+      "download": "https://github.com/yt1988/komari-btop-minimal/releases/download/v1.6.4/komari-btop-minimal.zip",
+      "sha256": "a9975e1963e44b35dd1ceb75503fbfccb3447639e70861591138369d6ac483c6"
     },
     {
       "name": "btop++ 极客终端",
@@ -189,12 +189,12 @@
       "name": "Komari Emerald Insights · 翡翠洞察",
       "short": "emerald-insights",
       "description": "现代翡翠风格全功能监控主题：集成资源概览大盘、30天在线率、IP质量与流媒体/AI解锁一览（支持查看详细评分与能力）、流量重置趋势以及节点成本与续费分析。 / Modern emerald theme featuring Resource Insights, 30-day availability, IP quality & streaming unlock overview, traffic reset trends, and VPS cost/renewal analytics.",
-      "version": "2.0.3",
+      "version": "2.0.4",
       "author": "Chen017",
       "url": "https://github.com/Chen017/komari-theme-emerald-insights",
       "preview": "https://raw.githubusercontent.com/Chen017/komari-theme-emerald-insights/master/preview.png",
-      "download": "https://github.com/Chen017/komari-theme-emerald-insights/releases/download/v2.0.3/komari-theme-emerald-insights.zip",
-      "sha256": "db3a75ce62ea37b332a76102431e0b33157120a48a0e8d6244ba91a1983fbe91"
+      "download": "https://github.com/Chen017/komari-theme-emerald-insights/releases/download/v2.0.4/komari-theme-emerald-insights.zip",
+      "sha256": "c8297bf2b69b09ebbaa4870b2fd0a3db5685b382b0b0423b4d27ed9545533169"
     },
     {
       "name": "Glassmorphism Enhanced",
@@ -222,12 +222,12 @@
       "name": "Komari Glassmorphism",
       "short": "Glassmorphism",
       "description": "A Glassmorphism theme for Komari",
-      "version": "3.4.2",
+      "version": "3.4.3",
       "author": "sanrokamlan",
       "url": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism",
       "preview": "https://raw.githubusercontent.com/sanrokamlan-prog/komari-theme-Glassmorphism/refs/heads/main/docs/preview.png",
-      "download": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism/releases/download/v3.4.2/komari-theme-Glassmorphism-build-69878cb.zip",
-      "sha256": "dfafaf3f8d24e5d9e52bf71db2ba7c44fa74e9ab87e2ef767721a9f760b4cb8d"
+      "download": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism/releases/download/v3.4.3/komari-theme-Glassmorphism-build-d68e4e1.zip",
+      "sha256": "b7edac468c92af30473bca83e930709c6f29a9a7209a1b200f868997c511604a"
     },
     {
       "name": "Komari Glassmorphism Plus",
@@ -266,12 +266,12 @@
       "name": "Horizon",
       "short": "horizon",
       "description": "高密度控制台风格的 Komari 主题：集群总览、节点卡片、流量周期与校准、延迟探针与丢包率、历史图表，中英双语，自定义字体与背景。A dense console-style Komari theme with cluster overview, node cards, traffic cycles, latency probes and packet loss, history charts, zh/en UI.",
-      "version": "1.9.4",
+      "version": "1.10.0",
       "author": "Dowsion",
       "url": "https://github.com/Dowsion-dev/Komari-Theme-Horizon",
       "preview": "https://raw.githubusercontent.com/Dowsion-dev/Komari-Theme-Horizon/main/preview.png",
-      "download": "https://github.com/Dowsion-dev/Komari-Theme-Horizon/releases/download/v1.9.4/Komari-Theme-Horizon-v1.9.4.zip",
-      "sha256": "6787b8bb8bc99daac04e94dcddc566ec447372924d36b5bfa54ba11e00cdfa4a"
+      "download": "https://github.com/Dowsion-dev/Komari-Theme-Horizon/releases/download/v1.10.0/Komari-Theme-Horizon-v1.10.0.zip",
+      "sha256": "31a3ad69ed3fb29f9f8aba591578b90bf31219c44153c60bc1f1e3e525afa684"
     },
     {
       "name": "ServerStatus-Hotaru",
