@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-23T04:52:03.605Z",
+  "updated_at": "2026-10-24T15:58:15.028Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -94,12 +94,12 @@
       "name": "Btop Minimal",
       "short": "btop-minimal",
       "description": "A minimal btop-inspired Komari monitor theme.",
-      "version": "1.6.4",
+      "version": "1.6.6",
       "author": "Tao",
       "url": "https://github.com/yt1988/komari-btop-minimal",
       "preview": "https://raw.githubusercontent.com/yt1988/komari-btop-minimal/master/preview.png",
-      "download": "https://github.com/yt1988/komari-btop-minimal/releases/download/v1.6.4/komari-btop-minimal.zip",
-      "sha256": "a9975e1963e44b35dd1ceb75503fbfccb3447639e70861591138369d6ac483c6"
+      "download": "https://github.com/yt1988/komari-btop-minimal/releases/download/v1.6.6/komari-btop-minimal.zip",
+      "sha256": "928876b246fc6d8f78534aea6740d61fb92714973343688dca3ca914d15a2bc8"
     },
     {
       "name": "btop++ 极客终端",
