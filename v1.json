@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-26T00:47:49.336Z",
+  "updated_at": "2026-10-27T02:13:23.491Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -782,6 +782,17 @@
       "preview": "https://github.com/yyy622hhh/komari-theme-transit/raw/main/docs/screenshots/transit-overview-dark.png",
       "download": "https://github.com/yyy622hhh/komari-theme-transit/releases/download/v1.2.0/komari-theme-Transit-build-b936e7a.zip",
       "sha256": "242700981ef3a03327063230b59fedaed42fde41b2e4cd3aaadac3a1e6e6d348"
+    },
+    {
+      "name": "WebStackLab · 全球监控大屏",
+      "short": "webstack-observatory",
+      "description": "深蓝科技风全球节点态势大屏，包含实时世界地图、资源指标、异常状态与流量趋势。",
+      "version": "1.2.3",
+      "author": "WebStackLab",
+      "url": "https://github.com/tasue/komari-theme-webstacklab",
+      "preview": "https://raw.githubusercontent.com/tasue/komari-theme-webstacklab/v1.2.3/preview.png",
+      "download": "https://github.com/tasue/komari-theme-webstacklab/releases/download/v1.2.3/WebStackLab-Observatory-v1.2.3.zip",
+      "sha256": "3fe45607b154d856153e1dafb499e9ec300b919e354f415edd9bf6c0f793e82a"
     },
     {
       "name": "Komari Zen",
