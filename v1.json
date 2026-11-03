@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-03T00:59:09.116Z",
+  "updated_at": "2026-11-03T03:54:02.072Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -442,6 +442,17 @@
       "preview": "https://raw.githubusercontent.com/stqfdyr/komari-theme-Lumina/refs/heads/main/preview.png",
       "download": "https://github.com/stqfdyr/komari-theme-Lumina/releases/download/v1.1.6/Lumina-v1.1.6.zip",
       "sha256": "a8847c40ee59bc3ab8d9f9173f34d4aa8a2a1f51ada8b5075901a677352038a5"
+    },
+    {
+      "name": "Komari-Theme-LuminaCustom",
+      "short": "LuminaCustom",
+      "description": "支持全量 65 项采集字段自由定制显示列、拖拽调序、多条件组合筛选与全字段排序的 Komari 增强主题",
+      "version": "3.1.2",
+      "author": "bbingz & JohnsonRan",
+      "url": "https://github.com/bbingz/Komari-Theme-LuminaCustom",
+      "preview": "https://raw.githubusercontent.com/bbingz/Komari-Theme-LuminaCustom/main/preview.png",
+      "download": "https://github.com/bbingz/Komari-Theme-LuminaCustom/releases/download/v3.1.2/Komari-Theme-LuminaCustom-v3.1.2.zip",
+      "sha256": "56784c204656a6310867ca6671f210dfcbaef935c1d41c537765fa882cbdd001"
     },
     {
       "name": "Komari-Theme-LuminaLite",
