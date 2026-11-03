@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T22:03:14.116Z",
+  "updated_at": "2026-11-03T00:59:09.116Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -563,15 +563,15 @@
         "zh-CN": "电子二次元监控面板主题，融合动漫 HUD 与稳定性面板。",
         "en": "An anime HUD and light sci-fi Komari dashboard with a built-in stability panel."
       },
-      "version": "1.3.1",
+      "version": "2.1.0",
       "author": {
         "zh-CN": "Miuler",
         "en": "Miuler"
       },
       "url": "https://github.com/saladinxp/komari-nano-muse",
       "preview": "https://raw.githubusercontent.com/saladinxp/komari-nano-muse/refs/heads/main/preview.png",
-      "download": "https://github.com/saladinxp/komari-nano-muse/releases/download/v1.3.1/komari-nano-muse-v1.3.1.zip",
-      "sha256": "05107dcead33196257751894810edf139740e0846034b2087c89b2d859213d2a"
+      "download": "https://github.com/saladinxp/komari-nano-muse/releases/download/v2.1.0/nanomuse-2.1.0.zip",
+      "sha256": "a9155710b7f1d7180ef7298cb783666acc51fffbb241da598fb5114f666e38ad"
     },
     {
       "name": "Komari Next",
