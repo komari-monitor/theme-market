@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-03T03:54:02.072Z",
+  "updated_at": "2026-11-03T12:32:58.588Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -782,6 +782,17 @@
       "preview": "https://raw.githubusercontent.com/xkrfer/komari-theme-slate/main/preview.png",
       "download": "https://github.com/xkrfer/komari-theme-slate/releases/download/v0.1.11/komari-theme-slate-v0.1.11.zip",
       "sha256": "66ba1d6f040d2a8f0d011e6fde89fa48ce4d4e0210fbc0e78c884c5af2767caa"
+    },
+    {
+      "name": "StatusWall 状态墙",
+      "short": "StatusWall",
+      "description": "为小机群设计的 Komari 状态墙：Solarized 玻璃卡片，一屏看全每台机器的 CPU / 内存 / 硬盘、流量与配额、三网延迟丢包状态条、价格与剩余价值，没有地图和地球。A Solarized glass status wall for small Komari fleets: every metric on the card, three-network ping status strips, no maps.",
+      "version": "2.6.3",
+      "author": "0xoo",
+      "url": "https://github.com/Tron521/komari-theme-statuswall",
+      "preview": "https://raw.githubusercontent.com/Tron521/komari-theme-statuswall/main/theme/preview.png",
+      "download": "https://github.com/Tron521/komari-theme-statuswall/releases/download/v2.6.3/StatusWall-2.6.3.zip",
+      "sha256": "1cf1b2631c2fe14bdc6694ad3c7e550c7b47197c5a6ab009ba85e8626121bfb6"
     },
     {
       "name": "Transit",
