@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-16T00:54:30.100Z",
+  "updated_at": "2026-11-18T07:30:50.342Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -200,12 +200,12 @@
       "name": "Komari Emerald Insights · 翡翠洞察",
       "short": "emerald-insights",
       "description": "现代翡翠风格全功能监控主题：集成资源概览大盘、30天在线率、IP质量与流媒体/AI解锁一览（支持查看详细评分与能力）、流量重置趋势以及节点成本与续费分析。 / Modern emerald theme featuring Resource Insights, 30-day availability, IP quality & streaming unlock overview, traffic reset trends, and VPS cost/renewal analytics.",
-      "version": "2.2.0",
+      "version": "2.2.1",
       "author": "Chen017",
       "url": "https://github.com/Chen017/komari-theme-emerald-insights",
       "preview": "https://raw.githubusercontent.com/Chen017/komari-theme-emerald-insights/master/preview.png",
-      "download": "https://github.com/Chen017/komari-theme-emerald-insights/releases/download/v2.2.0/komari-theme-emerald-insights.zip",
-      "sha256": "4259fe33566caaf8d96cc14f923d6921997e5e1f97c1863dc2fe38dc1997f692"
+      "download": "https://github.com/Chen017/komari-theme-emerald-insights/releases/download/v2.2.1/komari-theme-emerald-insights.zip",
+      "sha256": "c3ef8ac67f7b8510de4ace5991e8e4f0f24e002960686084aefabc499abc693d"
     },
     {
       "name": "Glassmorphism Enhanced",
@@ -480,12 +480,12 @@
       "name": "Komari-Theme-LuminaPlus",
       "short": "LuminaPlus",
       "description": "Komari-Theme-LuminaPlus",
-      "version": "1.3.6",
+      "version": "1.3.7",
       "author": "shark&shanyang",
       "url": "https://github.com/shanyang242/Komari-Theme-LuminaPlus",
       "preview": "https://raw.githubusercontent.com/shanyang242/Komari-Theme-LuminaPlus/refs/heads/main/docs/images/v1.1.9/overview-large-card-solid.png",
-      "download": "https://github.com/shanyang242/Komari-Theme-LuminaPlus/releases/download/v1.3.6/Komari-Theme-LuminaPlus-v1.3.6.zip",
-      "sha256": "07deac75bcaef949fb136259b37ace0ed16b83103872577d2d65d81ab3fc3013"
+      "download": "https://github.com/shanyang242/Komari-Theme-LuminaPlus/releases/download/v1.3.7/Komari-Theme-LuminaPlus-v1.3.7.zip",
+      "sha256": "d426d3d5b03c6ddd25f4899703c2e7564cb966455d2de485adbf2b895e727a5d"
     },
     {
       "name": "Komari Material",
@@ -754,12 +754,12 @@
       "name": "Komari-Theme-SAO",
       "short": "SAO",
       "description": "Komari Theme SAO Edition",
-      "version": "2.0.1",
+      "version": "2.0.2",
       "author": "WAOR",
       "url": "https://github.com/WAOR/Komari-Theme-SAO",
       "preview": "https://raw.githubusercontent.com/WAOR/Komari-Theme-SAO/main/preview.png",
-      "download": "https://github.com/WAOR/Komari-Theme-SAO/releases/download/v2.0.1/Komari-Theme-SAO-v2.0.1.zip",
-      "sha256": "4796cc264e6a9352c7ad5932f1b2441fce9a1dfc9a364c525a9a1a3df3de904e"
+      "download": "https://github.com/WAOR/Komari-Theme-SAO/releases/download/v2.0.2/Komari-Theme-SAO-v2.0.2.zip",
+      "sha256": "f693a5860b3677aab9460caf5bfc98b99fd72afb0706024c557f995098dee53d"
     },
     {
       "name": "ServerSentry Komari",
