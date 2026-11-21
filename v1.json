@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-18T07:30:50.342Z",
+  "updated_at": "2026-11-21T07:11:06.578Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -72,12 +72,12 @@
       "name": "亚托莉 · 我挚爱的服务器 / ATRI -My Dear Servers-",
       "short": "ATRI",
       "description": "高性能的亚托莉为你看守服务器！卡通风旋转地球、视觉小说对话框、游泳的亚托莉和伟大的螃蟹。 / A cartoon Komari theme starring ATRI: spinning globe with server pins, visual-novel dialogue and a great crab.",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "author": "huaiyu",
       "url": "https://github.com/qch7/komari-theme-atri",
       "preview": "https://raw.githubusercontent.com/qch7/komari-theme-atri/main/preview.png",
-      "download": "https://github.com/qch7/komari-theme-atri/releases/download/v1.0.2/komari-theme-ATRI-v1.0.2.zip",
-      "sha256": "35617c313601c001d09d14a5e75946c98c1c5f869c9e4736125327c30eac32c9"
+      "download": "https://github.com/qch7/komari-theme-atri/releases/download/v1.0.3/komari-theme-ATRI-v1.0.3.zip",
+      "sha256": "32f98d1784239ceac0e70818a286afcbbc9181cf51662e4a5a22dffedcc6223b"
     },
     {
       "name": "blueprint",
