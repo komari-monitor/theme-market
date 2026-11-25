@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-23T00:56:04.743Z",
+  "updated_at": "2026-11-25T14:58:47.093Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -89,6 +89,17 @@
       "preview": "https://raw.githubusercontent.com/qch7/komari-theme-atri/main/preview.png",
       "download": "https://github.com/qch7/komari-theme-atri/releases/download/v1.0.3/komari-theme-ATRI-v1.0.3.zip",
       "sha256": "32f98d1784239ceac0e70818a286afcbbc9181cf51662e4a5a22dffedcc6223b"
+    },
+    {
+      "name": "komari-theme-blackwhite",
+      "short": "blackwhite",
+      "description": "Blackwhite — 面向 Komari 的服务器监控与资产管理主题",
+      "version": "1.0.0",
+      "author": "imperatorwuming",
+      "url": "https://github.com/imperatorwuming/komari-theme-blackwhite",
+      "preview": "https://raw.githubusercontent.com/imperatorwuming/komari-theme-blackwhite/main/preview.png",
+      "download": "https://github.com/imperatorwuming/komari-theme-blackwhite/releases/download/v1.0.0%2Bdocs.1/komari-theme-blackwhite-v1.0.0.zip",
+      "sha256": "b233e5effa11808d67d7a97ba3dd6b847943bcad3206c809f90c603bce7df56b"
     },
     {
       "name": "blueprint",
