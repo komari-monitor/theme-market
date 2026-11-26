@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-25T14:58:47.093Z",
+  "updated_at": "2026-11-26T01:40:28.792Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -255,12 +255,12 @@
       "name": "Komari Glassmorphism",
       "short": "Glassmorphism",
       "description": "A Glassmorphism theme for Komari",
-      "version": "3.4.4",
+      "version": "3.4.5",
       "author": "sanrokamlan",
       "url": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism",
       "preview": "https://raw.githubusercontent.com/sanrokamlan-prog/komari-theme-Glassmorphism/refs/heads/main/docs/preview.png",
-      "download": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism/releases/download/v3.4.4/komari-theme-Glassmorphism-build-14f26ac.zip",
-      "sha256": "bd8c755410d445bd3a95a84c6453c3dfdd21a372d1693841aa1ea51b155a109f"
+      "download": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism/releases/download/v3.4.5/komari-theme-Glassmorphism-build-b816ce8.zip",
+      "sha256": "999d61356a05f18010a433cb9e4bc3ee5a09845c727b73d5fff241b26037c34e"
     },
     {
       "name": "Komari Glassmorphism Plus",
@@ -332,23 +332,23 @@
       "name": "junimo",
       "short": "Junimo",
       "description": "junimo",
-      "version": "2.0.2",
+      "version": "2.0.4",
       "author": "Planck",
       "url": "https://github.com/vaspike/junimo",
       "preview": "https://nyx.rivermao.com/img/nomal/a4f393.png",
-      "download": "https://github.com/vaspike/junimo/releases/download/v2.0.2/junimo-v2.0.2.zip",
-      "sha256": "3c44d18ced122b70a0b7b68d9a887d3ca1f1b0f556d274cbc3605313433f4818"
+      "download": "https://github.com/vaspike/junimo/releases/download/v2.0.4/junimo-v2.0.4.zip",
+      "sha256": "89da7b7d9d62f3bdb4e65beb5331c8d042ff3ebb8ddff6346e2ef4e44b672df5"
     },
     {
       "name": "Komari 1999",
       "short": "komari-1999",
       "description": "Neo-Brutalism themed dashboard for Komari Monitor",
-      "version": "1.0.1",
+      "version": "1.0.3",
       "author": "ricebucket",
       "url": "https://github.com/r1cebucket/komari-theme-1999",
       "preview": "https://github.com/r1cebucket/komari-theme-1999/raw/main/static/cover-image.png",
-      "download": "https://github.com/r1cebucket/komari-theme-1999/releases/download/v1.0.1/komari-theme-1999-adbf54b98b49f6162b207cc3aaf8df5909ae61b1.zip",
-      "sha256": "af44b99a0255f8e2b38880358d7fbc5efb8c83306a7e236eeaef84913ea907bc"
+      "download": "https://github.com/r1cebucket/komari-theme-1999/releases/download/v1.0.3/komari-theme-v1.0.3.zip",
+      "sha256": "2eeb9fa3607d7db98602494721cd855d521c885a291652a6d0aed1cc56c7abf1"
     },
     {
       "name": {
@@ -776,12 +776,12 @@
       "name": "Komari-Theme-SAO",
       "short": "SAO",
       "description": "Komari Theme SAO Edition",
-      "version": "2.0.2",
+      "version": "2.5.0",
       "author": "WAOR",
       "url": "https://github.com/WAOR/Komari-Theme-SAO",
       "preview": "https://raw.githubusercontent.com/WAOR/Komari-Theme-SAO/main/preview.png",
-      "download": "https://github.com/WAOR/Komari-Theme-SAO/releases/download/v2.0.2/Komari-Theme-SAO-v2.0.2.zip",
-      "sha256": "f693a5860b3677aab9460caf5bfc98b99fd72afb0706024c557f995098dee53d"
+      "download": "https://github.com/WAOR/Komari-Theme-SAO/releases/download/v2.5.0/Komari-Theme-SAO-v2.5.0.zip",
+      "sha256": "aba1674d620bc26059a4196032510b74c94ebde166f37e65cbf3dbddf1aee381"
     },
     {
       "name": "ServerSentry Komari",
