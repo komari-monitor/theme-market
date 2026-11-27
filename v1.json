@@ -371,6 +371,20 @@
       "sha256": "6b77652e3472cc0ac5ede3e10eaa511e3f7e3251181ef3f930ecf06dc0283b6f"
     },
     {
+      "name": { "zh-CN": "出发板 · Departure Board", "en": "Departure Board" },
+      "short": "departure-board",
+      "description": {
+        "zh-CN": "把你的服务器舰队变成机场出发大屏：每台机器是一趟航班，在线是准点，掉线是延误。深色翻牌看板风，等宽字体，10 秒实时刷新。",
+        "en": "Your server fleet as an airport departure board: every node is a flight — online means ON TIME, offline means DELAYED. Dark split-flap board, monospace type, live 10s refresh."
+      },
+      "version": "1.0.0",
+      "author": "yztutu",
+      "url": "https://github.com/yztutu/komari-theme-departure",
+      "preview": "https://raw.githubusercontent.com/yztutu/komari-theme-departure/main/preview.png",
+      "download": "https://raw.githubusercontent.com/yztutu/komari-theme-departure/main/release/komari-theme-departure-board-v1.0.0.zip",
+      "sha256": "f4449875399dec93dbacd385d51d1ad45dda92331bbe1817165c2f984ab5b9f9"
+    },
+    {
       "name": "Komari MDUI",
       "short": "komari-mdui",
       "description": "A clean Material Design 3 theme for Komari, built with MDUI + Vue 3",
